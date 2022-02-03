@@ -9,6 +9,19 @@ In this repository, you will find source codes, explanations, and other resource
 
 1. Introduction
 2. Environment Setup
+    - 2.1 [Environment Setup Introduction](https://www.youtube.com/watch?v=MR-gmUDhmcU)
+    - 2.2  [Install Google Chrome Browser](https://www.youtube.com/watch?v=o6G5Guhh9Tw)
+    - 2.3 [Chrome Extensions for Web Designers](https://www.youtube.com/watch?v=TTH0LNmRUYg)
+        - 2.3.1 WhatFont Extension
+        - 2.3.2 ColorZilla
+        - 2.3.3 Page Ruler Redux
+        - 2.3.4 CSS Viewer
+    - 2.4 [Install Visual Studio Code ](https://www.youtube.com/watch?v=PhG4XkHawQ4)
+    - 2.5 [Important VSCode Extensions](https://www.youtube.com/watch?v=MH5rzixj9OI)
+    - 2.6 [Install Git to Your Machine](https://www.youtube.com/watch?v=_7jGXE17a-U)
+    - 2.7 [Install NodeJS to Your Machine](https://www.youtube.com/watch?v=kCl3tVVvNlY)
+    - 2.8 [Install Windows Terminal 1.0](https://www.youtube.com/watch?v=HtMXdGbwPFQ)
+    - 2.9 [Install Postman - A REST API Client](https://www.youtube.com/watch?v=62lbTrdGk_A)
 3. Play with HTML & CSS
 4. HTML Common Tags
 5. CSS Units
