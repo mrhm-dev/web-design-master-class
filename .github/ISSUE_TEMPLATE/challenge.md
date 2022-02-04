@@ -1,7 +1,7 @@
 ---
 name: Community Challenges
 about: Provide a brief overview of your challenge
-title: [CHALLENGE] Provide a title for the challenge
+title: '[CHALLENGE] Provide a title for the challenge'
 labels: 'challenge'
 assignees: ''
 ---
