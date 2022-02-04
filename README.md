@@ -4,7 +4,6 @@ In this repository, you will find source codes, explanations, and other resource
 
 [Youtube Playlist Link](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN)
 
-
 ## Course Curriculum
 
 1. Introduction
@@ -12,10 +11,10 @@ In this repository, you will find source codes, explanations, and other resource
     - 2.1 [Environment Setup Introduction](https://www.youtube.com/watch?v=MR-gmUDhmcU)
     - 2.2  [Install Google Chrome Browser](https://www.youtube.com/watch?v=o6G5Guhh9Tw)
     - 2.3 [Chrome Extensions for Web Designers](https://www.youtube.com/watch?v=TTH0LNmRUYg)
-        - 2.3.1 WhatFont Extension
-        - 2.3.2 ColorZilla
-        - 2.3.3 Page Ruler Redux
-        - 2.3.4 CSS Viewer
+        - 2.3.1 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+        - 2.3.2 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+        - 2.3.3 [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal)
+        - 2.3.4 [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
     - 2.4 [Install Visual Studio Code ](https://www.youtube.com/watch?v=PhG4XkHawQ4)
     - 2.5 [Important VSCode Extensions](https://www.youtube.com/watch?v=MH5rzixj9OI)
     - 2.6 [Install Git to Your Machine](https://www.youtube.com/watch?v=_7jGXE17a-U)
@@ -56,5 +55,3 @@ In this repository, you will find source codes, explanations, and other resource
 34. CSS Programming using SCSS
 35. Project 10 - Corporate Website
 36. Project 11 - ECommerce Website
-
-
