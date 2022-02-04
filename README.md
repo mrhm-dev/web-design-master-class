@@ -1,6 +1,6 @@
 # Stack Learner - Web Design Master Class
 
-In this repository, you will find source codes, explanations, and other resources for **Web Design Master Class**. It is an open-source repository and feel free to add documentation, examples, and other references when necessary. Please create issues when you get confused or if something does not work. Other members will help you to solve your issues.
+In this repository, you will find source codes, explanations, and other resources for **Web Design Master Class**. It is an open-source repository and feels free to add documentation, examples, and other references when necessary. Please create issues when you get confused or if something does not work. Other members will help you to solve your issues.
 
 ## Quick Links:
 
@@ -13,20 +13,23 @@ In this repository, you will find source codes, explanations, and other resource
 ## Course Curriculum
 
 1. Introduction
+   - 1.1 [Welcome - Web Design Master Class](https://www.youtube.com/watch?v=1RzKcWEpb5Q)
+   - 1.2 [Important Announcement | Upload Schedule | Support | GitHub Contribution](https://www.youtube.com/watch?v=usrIIEDBrJU&ab_channel=StackLearner)
 2. Environment Setup
-    - 2.1 [Environment Setup Introduction](https://www.youtube.com/watch?v=MR-gmUDhmcU)
-    - 2.2 [Install Google Chrome Browser](https://www.youtube.com/watch?v=o6G5Guhh9Tw)
-    - 2.3 [Chrome Extensions for Web Designers](https://www.youtube.com/watch?v=TTH0LNmRUYg)
-        - 2.3.1 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
-        - 2.3.2 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
-        - 2.3.3 [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal)
-        - 2.3.4 [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
-    - 2.4 [Install Visual Studio Code ](https://www.youtube.com/watch?v=PhG4XkHawQ4)
-    - 2.5 [Important VSCode Extensions](https://www.youtube.com/watch?v=MH5rzixj9OI)
-    - 2.6 [Install Git to Your Machine](https://www.youtube.com/watch?v=_7jGXE17a-U)
-    - 2.7 [Install NodeJS to Your Machine](https://www.youtube.com/watch?v=kCl3tVVvNlY)
-    - 2.8 [Install Windows Terminal 1.0](https://www.youtube.com/watch?v=HtMXdGbwPFQ)
-    - 2.9 [Install Postman - A REST API Client](https://www.youtube.com/watch?v=62lbTrdGk_A)
+   - 2.1 [Environment Setup Introduction](https://www.youtube.com/watch?v=MR-gmUDhmcU)
+   - 2.2 [Install Google Chrome Browser](https://www.youtube.com/watch?v=o6G5Guhh9Tw)
+   - 2.3 [Chrome Extensions for Web Designers](https://www.youtube.com/watch?v=TTH0LNmRUYg)
+     - 2.3.1 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+     - 2.3.1 (Issue Solved) [Issue Fixed - Google Chrome CSS Overview](https://www.youtube.com/watch?v=BKRGuvIgv4Q&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=6&ab_channel=StackLearner)
+     - 2.3.2 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+     - 2.3.3 [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal)
+     - 2.3.4 [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
+   - 2.4 [Install Visual Studio Code ](https://www.youtube.com/watch?v=PhG4XkHawQ4)
+   - 2.5 [Important VSCode Extensions](https://www.youtube.com/watch?v=MH5rzixj9OI)
+   - 2.6 [Install Git to Your Machine](https://www.youtube.com/watch?v=_7jGXE17a-U)
+   - 2.7 [Install NodeJS to Your Machine](https://www.youtube.com/watch?v=kCl3tVVvNlY)
+   - 2.8 [Install Windows Terminal 1.0](https://www.youtube.com/watch?v=HtMXdGbwPFQ)
+   - 2.9 [Install Postman - A REST API Client](https://www.youtube.com/watch?v=62lbTrdGk_A)
 3. Play with HTML & CSS
 4. HTML Common Tags
 5. CSS Units
