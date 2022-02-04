@@ -4,6 +4,6 @@ Feel free to create examples & components. You can showcase your work directly h
 
 **Instructions:**
 
-- Create a directory for your example project. Give it a meaningful name, use lowercase letters when naming your directory.
-- Your directory must contain a `README.md` file describing your project, requirements, necessary screenshots and other resources.
-- Must follow a good directory structure like.
+- Create a directory for your example project. When naming your directory, use lowercase letters and give it a meaningful name.
+- Your directory must contain a `README.md` file describing your project, requirements, necessary screenshots, and other resources.
+- Must follow a good directory structure.
