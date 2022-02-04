@@ -1,8 +1,9 @@
 ---
 name: Community Challenges
 about: Provide a brief overview of your challenge
-title: [CHALLENGE] Provide a title for the challenge
-labels: challenge
+title: '[CHALLENGE] Provide a title for the challenge'
+labels: 'challenge'
+assignees: ''
 ---
 
 **Provide a meaningful title for your challenge**
