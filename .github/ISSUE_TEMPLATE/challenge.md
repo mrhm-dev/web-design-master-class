@@ -1,7 +1,7 @@
 ---
 name: Community Challenges
 about: Provide a brief overview of your challenge
-title: Create a nice title for your challenge
+title: [CHALLENGE] Provide a title for the challenge
 labels: challenge
 ---
 

@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: '[FEATURE] Provide the new feature name you want to implement'
+labels: 'feature'
 assignees: ''
 
 ---
