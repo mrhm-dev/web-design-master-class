@@ -1,6 +1,7 @@
 ---
 name: Question
 about: Provide a brief overview of your problem
+title: '[QUESTION] Provide the title of your question'
 labels: question
 ---
 
