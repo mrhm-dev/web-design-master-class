@@ -13,11 +13,14 @@ In this repository, you will find source codes, explanations, and other resource
 ## Course Curriculum
 
 1. Introduction
+   - 1.1 [Welcome - Web Design Master Class](https://www.youtube.com/watch?v=1RzKcWEpb5Q)
+   - 1.2 [Important Announcement | Upload Schedule | Support | GitHub Contribution](https://www.youtube.com/watch?v=usrIIEDBrJU&ab_channel=StackLearner)
 2. Environment Setup
    - 2.1 [Environment Setup Introduction](https://www.youtube.com/watch?v=MR-gmUDhmcU)
    - 2.2 [Install Google Chrome Browser](https://www.youtube.com/watch?v=o6G5Guhh9Tw)
    - 2.3 [Chrome Extensions for Web Designers](https://www.youtube.com/watch?v=TTH0LNmRUYg)
      - 2.3.1 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+     - 2.3.1 (Issue Solved) [Issue Fixed - Google Chrome CSS Overview](https://www.youtube.com/watch?v=BKRGuvIgv4Q&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=6&ab_channel=StackLearner)
      - 2.3.2 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
      - 2.3.3 [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal)
      - 2.3.4 [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
