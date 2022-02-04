@@ -4,7 +4,7 @@ In this repository, you will find source codes, explanations, and other resource
 
 <br />
 
-**Important Links:**
+**Quick Links:**
 
 [Youtube Playlist Link](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN)
 [Source Codes](https://github.com/mrhm-dev/web-design-master-class/tree/master/src)
