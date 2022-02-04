@@ -2,14 +2,20 @@
 
 In this repository, you will find source codes, explanations, and other resources for **Web Design Master Class**. It is an open-source repository and feel free to add documentation, examples, and other references when necessary. Please create issues when you get confused or if something does not work. Other members will help you to solve your issues.
 
+<br />
+
+**Important Links:**
+
 [Youtube Playlist Link](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN)
+[Source Codes](https://github.com/mrhm-dev/web-design-master-class/tree/master/src)
+[Community Driven Examples](https://github.com/mrhm-dev/web-design-master-class/tree/master/src)
 
 ## Course Curriculum
 
 1. Introduction
 2. Environment Setup
     - 2.1 [Environment Setup Introduction](https://www.youtube.com/watch?v=MR-gmUDhmcU)
-    - 2.2  [Install Google Chrome Browser](https://www.youtube.com/watch?v=o6G5Guhh9Tw)
+    - 2.2 [Install Google Chrome Browser](https://www.youtube.com/watch?v=o6G5Guhh9Tw)
     - 2.3 [Chrome Extensions for Web Designers](https://www.youtube.com/watch?v=TTH0LNmRUYg)
         - 2.3.1 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
         - 2.3.2 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
