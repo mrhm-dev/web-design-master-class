@@ -52,6 +52,8 @@ In this repository, you will find source codes, explanations, and other resource
 3. Play with HTML & CSS
    - 3.1 [Introduction of play with HTML and CSS chapter](https://www.youtube.com/watch?v=3B57A0EYDUQ)
    - 3.2 [What is html](https://www.youtube.com/watch?v=ykMSs4AsGLo)
+   - 3.3 [How to write html code](https://www.youtube.com/watch?v=RCiOk_OyNH0)
+   - 3.4 [HTML attribute](https://www.youtube.com/watch?v=t5FNH0U-jMw)
 4. HTML Common Tags
 5. CSS Units
 6. CSS Box Model
