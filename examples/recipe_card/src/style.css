@@ -21,7 +21,7 @@ body {
   min-height: 100vh;
   height: 100vh;
   background-image: linear-gradient(to right bottom, #fbdb89e8, #f48a82e3),
-    url(./img/home-bg.jpg);
+    url(./img/hero.jpg);
   background-size: cover;
   background-position: center;
 }
