@@ -1,0 +1,313 @@
+/************************/
+/* Basic Reset */
+/************************/
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%; /* 1rem = 10px */
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  min-height: 100vh;
+  height: 100vh;
+  background-image: linear-gradient(to right bottom, #fbdb89e8, #f48a82e3),
+    url(./img/hero.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+/********************************/
+/* Recipe Component Style*/
+/********************************/
+
+.recipe-container {
+  display: grid;
+  /* Here I used [CSS Comparison Function] for reduce some works in the responsiveness */
+  grid-template-columns: minmax(1rem, 1fr) minmax(min(100%, 25rem), 54rem) minmax(
+      1rem,
+      1fr
+    );
+
+  gap: 2rem;
+  height: 100%;
+
+  /* To Center the grid item we can do either */
+
+  /* 1) this: 
+  place-items: center;
+  place-content: center; 
+
+  /* 2) or the following code: */
+  margin: auto;
+  align-items: center;
+}
+
+/* ** Recipes Tags ** */
+.recipe__tags {
+  position: absolute;
+  top: 0%;
+  left: 0;
+  transform: translate(-50%, -50%);
+
+  /* or you can do the below code:  */
+
+  /*
+  grid-column: 1 / 2;
+  grid-row: 1/ 2;
+  justify-self: start;
+  align-self: start;
+  z-index: 100; 
+  */
+}
+
+.tag {
+  display: inline-block;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #333;
+  margin-bottom: 1rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 10rem;
+}
+
+.tag--vegan {
+  background-color: #ffd43b;
+}
+
+/* ** Main Recipe (Standalone Components)  ** */
+
+.recipe {
+  position: relative;
+  grid-column: 2 / span 1;
+
+  display: grid;
+  grid-template-columns: min-content 1fr;
+  place-items: center;
+  column-gap: 2rem;
+  padding: 2rem;
+  background-color: #101d30;
+  color: #f3d9fa;
+  border-radius: 0.2rem;
+  box-shadow: 0 2.2rem 0 -1rem #01071b;
+}
+
+.recipe__image-box {
+  grid-row: 1 / span 2;
+  grid-column: 1 / 2;
+}
+
+.recipe__img {
+  display: block;
+  width: 18rem;
+  height: 18rem;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  border: 0.4rem solid #fbdb89;
+  transition: all 0.3s ease-in-out;
+}
+
+.recipe__info {
+  grid-row: 1 / 3;
+  grid-column: 2 / -1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: all 0.3s;
+}
+
+/************************/
+/* Animation Effect */
+/************************/
+.recipe__image-box:hover .recipe__img {
+  transform: scale(1.11);
+}
+
+.recipe__image-box:hover + .recipe__info:not(:hover) {
+  transform: scale(0.9);
+}
+
+.recipe__image-box:hover ~ .recipe__btn:not(:hover) {
+  transform: scale(0.9);
+}
+
+.recipe__header {
+  width: max-content;
+  padding: 0.8rem 0.6rem;
+  margin-bottom: 0.9rem;
+  border-inline: 0.4rem solid #ffdf8f;
+  transform: skewX(-20deg);
+  background-image: linear-gradient(to right, #25e9cf, #16f7d9);
+}
+
+.recipe__name {
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #300224;
+  transform: skewX(20deg);
+}
+
+.recipe__description {
+  font-size: 1.6rem;
+  line-height: 1.4;
+  margin-bottom: 1.6rem;
+}
+
+.recipe__stats-box {
+  font-size: 1.6rem;
+  display: flex;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.recipe__stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.recipe__stat-value,
+.recipe__stat-name {
+  display: block;
+  width: max-content;
+}
+
+.recipe__stat-value {
+  font-weight: 400;
+  margin-bottom: 0.4rem;
+}
+
+.recipe__stat-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.recipe__stat-name--1 {
+  color: #fbdb89;
+}
+
+.recipe__stat-name--2 {
+  color: #f48982;
+}
+
+.recipe__stat-name--3 {
+  color: #1c8fd1;
+}
+
+.recipe__price {
+  font-size: 1.6rem;
+  font-weight: 700;
+  text-align: center;
+  width: max-content;
+  padding: 0.6rem 1.5rem;
+  color: #000000;
+  background-color: #ebdc15;
+  border-radius: 0.3rem;
+}
+
+.recipe__btn {
+  grid-column: 2 / -1;
+  grid-row: 1 / 3;
+  place-self: end;
+  justify-self: end;
+  align-self: start;
+
+  /* z-index property can be used in a grid or flex item without having to set [position] property */
+  z-index: 100;
+
+  margin: -4rem;
+
+  /* or instead of [margin], it can be done with [tranform] property but I'll go with margin at this point. because I think it's(margin) more straight-forward here. */
+  /* transform: translate(76%, -88%) rotate(23deg); */
+
+  transform: rotate(23deg);
+}
+
+/* ** Button Tags ** */
+.btn:link,
+.btn:visited {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: inherit;
+  font-size: 1.8rem;
+  font-weight: 600;
+  height: 5rem;
+  width: 5rem;
+  text-decoration: none;
+  padding: 0.4rem;
+  background-color: #f8fafc;
+  color: #333;
+  transition: all 0.3s;
+}
+
+.btn--round:link,
+.btn--round:visited {
+  border-radius: 50%;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #e0e2e4;
+}
+
+/****************************/
+/* Responsiveness */
+/***************************/
+
+/* 38.75em = 620px [Below 620px] */
+@media only screen and (max-width: 38.75em) {
+  html {
+    font-size: 50%; /* 1rem = 8px */
+  }
+
+  .recipe {
+    grid-template-columns: 1fr;
+    gap: 4rem;
+  }
+
+  .recipe__image-box {
+    grid-row: 1 / span 1;
+    grid-column: 1 / -1;
+  }
+
+  .recipe__img {
+    width: 12rem;
+    height: 12rem;
+  }
+
+  .recipe__info {
+    grid-row: 2 / span 1;
+    grid-column: 1 / -1;
+  }
+
+  .recipe__stats-box {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .recipe__stat,
+  .recipe__price {
+    flex-basis: 45%;
+  }
+
+  .recipe__btn {
+    grid-column: 1 / -1;
+    grid-row: 1 / span 1;
+  }
+}
