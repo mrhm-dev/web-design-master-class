@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <title>Recipe Card</title>
+  </head>
+  <body>
+    <section class="recipe-container">
+      <!-- RECIPE CARD -->
+      <figure class="recipe">
+        <!-- Recipe TAG  -->
+        <div class="recipe__tags">
+          <span class="tag tag--vegan">Vegan</span>
+        </div>
+        <!-- Recipe IMAGE -->
+        <div class="recipe__image-box">
+          <img
+            src="img/pizza.jpg"
+            alt="Delicious Vegeterian Pizza"
+            class="recipe__img"
+          />
+        </div>
+
+        <!-- Recipe INFORMATION-->
+        <div class="recipe__info">
+          <!-- ABOUT Recipe  -->
+          <figcaption class="recipe__details">
+            <div class="recipe__header">
+              <h3 class="recipe__name">VEGGI-PROSCIUTTO PIZZA</h3>
+            </div>
+
+            <p class="recipe__description">
+              Lactose-free, healthy and organic vegan pizzas, with great-taste
+              along nutritional needs and kid-friendly.
+            </p>
+          </figcaption>
+
+          <!-- Recipe STATS BOX  -->
+          <div class="recipe__stats-box">
+            <!-- STAT 01 -->
+            <div class="recipe__stat">
+              <span class="recipe__stat-value">4.9</span>
+              <span class="recipe__stat-name recipe__stat-name--1">Stars</span>
+            </div>
+
+            <!-- STAT 02 -->
+            <div class="recipe__stat">
+              <span class="recipe__stat-value">60</span>
+              <span class="recipe__stat-name recipe__stat-name--3"
+                >Minutes</span
+              >
+            </div>
+
+            <!-- STAT 03 -->
+            <div class="recipe__stat">
+              <span class="recipe__stat-value">2</span>
+              <span class="recipe__stat-name recipe__stat-name--2"
+                >Peoples</span
+              >
+            </div>
+            <!-- Recipe PRICE -->
+            <p class="recipe__price">৳750</p>
+          </div>
+        </div>
+
+        <!-- BUTTON -->
+        <a href="#" class="recipe__btn btn btn--round">Try!</a>
+      </figure>
+    </section>
+  </body>
+</html>
