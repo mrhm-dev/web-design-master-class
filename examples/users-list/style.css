@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Poppins:wght@400;500;600&display=swap');
+
+:root {
+  --clr-accent: hsl(227, 100%, 76%);
+  --clr-background: hsl(226, 44%, 83%);
+  --clr-background-alt: hsl(225, 100%, 99%);
+  --clr-text: hsl(228, 41%, 14%);
+  --clr-text-accent: hsl(226, 60%, 57%);
+  --clr-border: hsl(226, 42%, 82%);
+  --clr-white: hsl(0, 0%, 100%);
+  --font-heading: 'Merriweather', sans-serif;
+  --font-body: 'Poppins', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--clr-background);
+}
+
+img {
+  width: 100%;
+}
+
+.container {
+  max-width: 80rem;
+  margin: 4rem auto;
+  padding: 0 2rem;
+}
+
+.userList {
+  background-color: var(--clr-white);
+  padding: 3.25rem;
+  border-radius: 1rem;
+}
+
+.userList__header {
+  margin-bottom: 4.375rem;
+}
+
+.userList__heading {
+  font-family: var(--font-heading);
+  font-weight: 900;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.userList__searchMenuWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.userList__search {
+  padding: 1rem;
+  border: 1px solid var(--clr-border);
+  border-radius: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-basis: 20.375rem;
+  flex-shrink: 1;
+}
+
+.userList__searchIcon {
+  width: 2rem;
+  height: 2rem;
+}
+
+.userList__searchInput {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.userList__searchInput::placeholder {
+  color: var(--clr-text);
+}
+
+.userList__menu {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  gap: 1rem;
+}
+
+.userList__menuItem {
+  font-family: var(--font-body);
+  color: var(--clr-text);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.userList__menuItem--active {
+  background-color: var(--clr-accent);
+  padding: 1rem;
+  color: var(--clr-white);
+  border-radius: 0.5rem;
+}
+
+.userList__body {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  gap: 1rem;
+}
+
+.userList__user {
+  display: flex;
+  gap: 1rem;
+  background-color: var(--clr-background-alt);
+  min-height: 12.5rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.userList__user--active {
+  border: 1px solid var(--clr-border);
+  box-shadow: 0 0.5rem 1.4375rem rgba(218, 224, 249, 0.7);
+}
+
+.userList__userImg {
+  max-width: 6.25rem;
+}
+
+.userList__userName {
+  font-size: 1.125rem;
+  font-family: var(--font-heading);
+  font-weight: 900;
+  margin: 1.25rem 0 0.25rem;
+}
+
+.userList__userLocation {
+  font-weight: 500;
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.userList__tagsWrapper {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.userList__tag {
+  padding: 0.125rem 0.5rem;
+  border: 1px solid var(--clr-border);
+  border-radius: 99rem;
+  font-weight: 500;
+  font-size: 0.75rem;
+  cursor: pointer;
+  color: var(--clr-text-accent);
+}
+
+@media (max-width: 61.5em) {
+  html {
+    font-size: 93.75%;
+  }
+
+  .userList__body {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .userList__searchMenuWrapper {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .userList__search {
+    flex-basis: 0;
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .userList__body {
+    grid-template-columns: 1fr;
+  }
+}
