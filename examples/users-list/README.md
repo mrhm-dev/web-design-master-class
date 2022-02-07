@@ -1,7 +1,5 @@
 # UI Design Daily - User List (Day 1542)
 
-This is a solution to the Four card feature section challenge on Frontend Mentor.
-
 - [UI Design Daily - User List (Day 1542)](#ui-design-daily---user-list-day-1542)
   - [Overview](#overview)
     - [The design](#the-design)
