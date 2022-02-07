@@ -50,7 +50,6 @@ In this repository, you will find source codes, explanations, and other resource
    - 2.8 [Install Windows Terminal 1.0](https://www.youtube.com/watch?v=HtMXdGbwPFQ)
    - 2.9 [Install Postman - A REST API Client](https://www.youtube.com/watch?v=62lbTrdGk_A)
 3. Play with HTML & CSS
-
    - 3.1 [Introduction of play with HTML and CSS chapter](https://www.youtube.com/watch?v=3B57A0EYDUQ)
    - 3.2 [What is html](https://www.youtube.com/watch?v=ykMSs4AsGLo)
    - 3.3 [How to write html code](https://www.youtube.com/watch?v=RCiOk_OyNH0)
@@ -59,7 +58,6 @@ In this repository, you will find source codes, explanations, and other resource
    - 3.6 [How to style HTML using CSS](https://www.youtube.com/watch?v=in9JKql82iE)
    - 3.7 [How to link external CSS file](https://www.youtube.com/watch?v=qP6tAsDqwzM)
    - 3.8 [Common CSS selectors](https://www.youtube.com/watch?v=nVZhBk3YYFU)
-
 4. HTML Common Tags
 5. CSS Units
 6. CSS Box Model
