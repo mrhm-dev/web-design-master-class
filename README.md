@@ -24,7 +24,7 @@ In this repository, you will find source codes, explanations, and other resource
      - 2.3.2 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
      - 2.3.3 [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal)
      - 2.3.4 [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
-   - 2.4 [Install Visual Studio Code ](https://www.youtube.com/watch?v=PhG4XkHawQ4)
+   - 2.4 [Install Visual Studio Code](https://www.youtube.com/watch?v=PhG4XkHawQ4)
    - 2.5 [Important VSCode Extensions](https://www.youtube.com/watch?v=MH5rzixj9OI)
      - 2.5.1 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
      - 2.5.2 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -54,6 +54,10 @@ In this repository, you will find source codes, explanations, and other resource
    - 3.2 [What is html](https://www.youtube.com/watch?v=ykMSs4AsGLo)
    - 3.3 [How to write html code](https://www.youtube.com/watch?v=RCiOk_OyNH0)
    - 3.4 [HTML attribute](https://www.youtube.com/watch?v=t5FNH0U-jMw)
+   - 3.5 [What is CSS](https://www.youtube.com/watch?v=9LU3XL6tYzI)
+   - 3.6 [How to style HTML using CSS](https://www.youtube.com/watch?v=in9JKql82iE)
+   - 3.7 [How to link external CSS file](https://www.youtube.com/watch?v=qP6tAsDqwzM)
+   - 3.8 [Common CSS selectors](https://www.youtube.com/watch?v=nVZhBk3YYFU)
 4. HTML Common Tags
 5. CSS Units
 6. CSS Box Model
