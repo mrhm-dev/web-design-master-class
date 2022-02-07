@@ -58,6 +58,8 @@ In this repository, you will find source codes, explanations, and other resource
    - 3.6 [How to style HTML using CSS](https://www.youtube.com/watch?v=in9JKql82iE)
    - 3.7 [How to link external CSS file](https://www.youtube.com/watch?v=qP6tAsDqwzM)
    - 3.8 [Common CSS selectors](https://www.youtube.com/watch?v=nVZhBk3YYFU)
+   - 3.9 [How to link Google Font](https://www.youtube.com/watch?v=Rb_GY4Z9VtI)
+   - 3.10 [Create a section using div tag](https://www.youtube.com/watch?v=2Qnpv3eAyPI)
 4. HTML Common Tags
 5. CSS Units
 6. CSS Box Model
