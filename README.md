@@ -10,6 +10,8 @@ In this repository, you will find source codes, explanations, and other resource
 
 [Community Driven Examples](https://github.com/mrhm-dev/web-design-master-class/tree/master/src)
 
+[Community Driven References](https://github.com/mrhm-dev/web-design-master-class/tree/master/references)
+
 ## Course Curriculum
 
 1. Introduction
