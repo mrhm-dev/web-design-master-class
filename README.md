@@ -33,7 +33,7 @@ In this repository, you will find source codes, explanations, and other resource
      - 2.5.5 [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
      - 2.5.6 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
      - 2.5.7 [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-     - 2.5.8 [GitLense - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+     - 2.5.8 [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
      - 2.5.9 [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
      - 2.5.10 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
      - 2.5.11 [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) _VScode(Emmet) already has this feature. Type lorem and number of word and hit tab. Example. lorem100_
