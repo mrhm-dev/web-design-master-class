@@ -1,0 +1,10 @@
+h1 {
+    font-family: "Mochiy Pop P One", sans-serif;
+}
+#first-para {
+    color: rgb(8, 109, 109);
+    font-family: "Supermercado One", cursive;
+}
+.outer > p {
+    font-family: "Roboto", sans-serif;
+}
