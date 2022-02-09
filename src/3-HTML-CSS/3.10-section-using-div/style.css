@@ -1,0 +1,22 @@
+.container{
+    width: 600px;
+    margin: 30px auto;
+    background: #ddd;
+    padding: 10px 20px;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.btn {
+    padding : 5px 10px;
+    text-transform: uppercase;
+}
+.btn-primary{
+    background: blue;
+    color: #fff;
+}
+.btn-secondary{
+    background-color: gray;
+}

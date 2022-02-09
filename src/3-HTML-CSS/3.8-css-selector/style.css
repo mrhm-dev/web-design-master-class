@@ -1,0 +1,26 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(6, 138, 138);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 2;
+}
+button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+}
+.para{
+    color: red;
+}
+#first-para{
+    color: rgb(8, 109, 109);
+}
+.outer > p{
+    font-size: 25px;
+}
