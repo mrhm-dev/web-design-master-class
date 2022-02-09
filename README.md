@@ -63,6 +63,7 @@ In this repository, you will find source codes, explanations, and other resource
 4. HTML Common Tags
    - 4.1 [Two Types of HTML Elements](https://youtu.be/jBPFnfIm214)
    - 4.2 [HTML Inline Elements](https://youtu.be/cLUvWS7-prc)
+   - 4.3 [HTML Block Elements](https://youtu.be/8qvN7UEc38I)
    - 4.4 [HTML5 Semantic Elements](https://youtu.be/28j5Il7meRQ)
 5. CSS Units
 6. CSS Box Model
