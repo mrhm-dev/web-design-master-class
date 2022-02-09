@@ -61,6 +61,9 @@ In this repository, you will find source codes, explanations, and other resource
    - 3.9 [How to link Google Font](https://www.youtube.com/watch?v=Rb_GY4Z9VtI)
    - 3.10 [Create a section using div tag](https://www.youtube.com/watch?v=2Qnpv3eAyPI)
 4. HTML Common Tags
+   - 4.1 [Two Types of HTML Elements](https://youtu.be/jBPFnfIm214)
+   - 4.2 [HTML Inline Elements](https://youtu.be/cLUvWS7-prc)
+   - 4.4 [HTML5 Semantic Elements](https://youtu.be/28j5Il7meRQ)
 5. CSS Units
 6. CSS Box Model
 7. CSS Layout using Floats
