@@ -66,6 +66,9 @@ In this repository, you will find source codes, explanations, and other resource
    - 4.3 [HTML Block Elements](https://youtu.be/8qvN7UEc38I)
    - 4.4 [HTML5 Semantic Elements](https://youtu.be/28j5Il7meRQ)
 5. CSS Units
+   - 5.1 [Type of CSS Units](https://youtu.be/TO8xqjNZrWQ)
+   - 5.2 [CSS Absolute Length Units](https://youtu.be/tFEIlhYdtnQ)
+   - 5.3 [CSS Relative Length Units](https://youtu.be/41HjfoeUdAg)
 6. CSS Box Model
 7. CSS Layout using Floats
 8. CSS Flexbox
