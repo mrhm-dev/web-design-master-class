@@ -1,0 +1,226 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.5;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+input,
+textarea {
+  -webkit-appearance: none;
+  font-family: inherit;
+  border: 0;
+}
+
+input:focus,
+textarea:focus {
+  outline: 0;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 3.8rem;
+}
+
+h1 {
+  font-size: 4.8rem;
+}
+
+button {
+  overflow: hidden;
+}
+
+button .ripple {
+  position: absolute;
+  background-color: #466bff;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  animation: scale 500ms ease-out;
+}
+
+@keyframes scale {
+  to {
+    transform: translate(-50%, -50%) scale(3.5);
+    opacity: 0;
+  }
+}
+
+body {
+  margin: 0 auto;
+  padding: 2rem;
+  max-width: 1140px;
+  height: 100vh;
+}
+
+.signup {
+  margin-top: 10%;
+  display: grid;
+}
+
+.signup__heroimage {
+  display: none;
+}
+
+.signup__heroimage img {
+  width: 100%;
+}
+
+.signup__form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.signup__form__title {
+  margin-bottom: 5rem;
+  font-weight: 900;
+}
+
+.signup__form__body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup__form__body label {
+  width: 100%;
+  position: relative;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.signup__form__body label input {
+  border: 1.5px solid #c2ddfb;
+  width: 100%;
+  padding: 1.6rem;
+  border-radius: 7px;
+  font-size: 2rem;
+}
+
+.signup__form__body .placeholder-logo {
+  width: 2rem;
+  height: 2rem;
+}
+
+.signup__form__body label .inputplaceholder {
+  -webkit-appearance: none;
+  position: absolute;
+  top: 50%;
+  left: 2rem;
+  transform: translateY(-50%);
+  opacity: 0.5;
+  font-size: inherit;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  pointer-events: none;
+  transition-property: top, font-size, opacity;
+  transition-duration: 300ms;
+  transition-timing-function: ease-in-out;
+}
+
+.signup__form__body label .inputplaceholder span {
+  background-color: #fff;
+  padding: 0 0.13rem;
+}
+
+.signup__form__body label input:focus,
+.signup__form__body label textarea:focus {
+  transition: border 100ms, box-shadow 200ms;
+  border: 1.5px solid #5f7fff;
+  box-shadow: 0 0 0 3.5px #e3effd;
+  -webkit-box-shadow: 0 0 0 3.5px #e3effd;
+}
+
+.signup__form__body label input:focus + .inputplaceholder,
+.signup__form__body label input:not(:placeholder-shown) + .inputplaceholder {
+  top: 0;
+  opacity: 1;
+  font-size: 1.5rem;
+}
+
+.signup__form__body label input:focus + .inputplaceholder > .placeholder-logo,
+.signup__form__body label
+input:not(:placeholder-shown)
++ .inputplaceholder
+> .placeholder-logo {
+  display: none;
+}
+
+.signup__form__body .btn-signup {
+  border: 0;
+  padding: 1rem 2rem;
+  font-family: inherit;
+  cursor: pointer;
+  width: 100%;
+  color: #fff;
+  background-color: #5f7fff;
+  font-weight: 700;
+  padding: 1.25rem 0;
+  font-size: 2rem;
+  border-radius: 4px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  transition: background-color 200ms ease-out;
+}
+
+.signup__form__body .btn-signup:hover {
+  background-color: #7993ff;
+}
+
+.signup__form__body .login {
+  margin-top: 2rem;
+  color: #222;
+}
+
+.signup__form__body .login span {
+  cursor: pointer;
+  color: #5f7fff;
+  margin-left: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .signup__form__body {
+    align-self: center;
+    width: 85%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .signup {
+    grid-template-columns: 1fr 1fr;
+    gap: 0% 10%;
+  }
+  .signup__heroimage {
+    display: block;
+    grid-column: 1/2;
+    align-self: end;
+    margin-bottom: 5%;
+  }
+  .signup__form__body {
+    width: 100%;
+    grid-column: 2/-1;
+  }
+  .signup__form__body label input {
+    padding: 2rem;
+  }
+}

@@ -1,0 +1,181 @@
+@import "reset";
+
+//colors
+$color-primary: #c2ddfb;
+$color-secondary: #5f7fff;
+$color-mblack: #222;
+$color-white: #fff;
+
+$font-weights: (
+  "regular": 400,
+  "bold": 700,
+  "bolder": 900,
+);
+button {
+  overflow: hidden;
+  & .ripple {
+    position: absolute;
+    background-color: darken($color-secondary, 5%);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    animation: scale 500ms ease-out;
+  }
+}
+@keyframes scale {
+  to {
+    transform: translate(-50%, -50%) scale(3.5);
+    opacity: 0;
+  }
+}
+
+body {
+  margin: 0 auto;
+  padding: 2rem;
+  max-width: 1140px;
+  height: 100vh;
+}
+.signup {
+  margin-top: 10%;
+  display: grid;
+  &__heroimage {
+    display: none;
+    img {
+      width: 100%;
+    }
+  }
+  &__form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  &__form__title {
+    margin-bottom: 5rem;
+    font-weight: map-get($font-weights, bolder);
+  }
+  &__form__body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    label {
+      width: 100%;
+      position: relative;
+      font-size: 1.8rem;
+      margin-bottom: 1.5rem;
+    }
+
+    label input {
+      border: 1.5px solid $color-primary;
+      width: 100%;
+      padding: 1.6rem;
+      border-radius: 7px;
+      font-size: 2rem;
+    }
+    .placeholder-logo {
+      width: 2rem;
+      height: 2rem;
+    }
+    label .inputplaceholder {
+      -webkit-appearance: none;
+      position: absolute;
+      top: 50%;
+      left: 2rem;
+      transform: translateY(-50%);
+      opacity: 0.5;
+      font-size: inherit;
+      width: 90%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      pointer-events: none;
+      transition-property: top, font-size, opacity;
+      transition-duration: 300ms;
+      transition-timing-function: ease-in-out;
+      span {
+        background-color: #fff;
+        padding: 0 0.13rem;
+      }
+    }
+    label input:focus,
+    label textarea:focus {
+      transition: border 100ms, box-shadow 200ms;
+      border: 1.5px solid $color-secondary;
+      box-shadow: 0 0 0 3.5px lighten($color-primary, 6.8%);
+      -webkit-box-shadow: 0 0 0 3.5px lighten($color-primary, 6.8%);
+    }
+
+    label input:focus + .inputplaceholder,
+    label input:not(:placeholder-shown) + .inputplaceholder {
+      top: 0;
+      opacity: 1;
+      font-size: 1.5rem;
+    }
+    label input:focus + .inputplaceholder > .placeholder-logo,
+    label
+      input:not(:placeholder-shown)
+      + .inputplaceholder
+      > .placeholder-logo {
+      display: none;
+    }
+
+    .btn-signup {
+      @include btn;
+      width: 100%;
+      color: $color-white;
+      background-color: $color-secondary;
+      font-weight: map-get($font-weights, bold);
+      padding: 1.25rem 0;
+      font-size: 2rem;
+      border-radius: 4px;
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+        rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+      -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+        rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+      transition: background-color 200ms ease-out;
+      &:hover {
+        background-color: lighten($color-secondary, 5%);
+      }
+    }
+    .login {
+      margin-top: 2rem;
+      color: $color-mblack;
+      span {
+        cursor: pointer;
+        color: $color-secondary;
+        margin-left: 0.5rem;
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .signup {
+    &__form__body {
+      align-self: center;
+      width: 85%;
+    }
+  }
+}
+
+@media (min-width: 1024px) {
+  .signup {
+    grid-template-columns: 1fr 1fr;
+    gap: 0% 10%;
+    &__heroimage {
+      display: block;
+      grid-column: 1/2;
+      align-self: end;
+      margin-bottom: 5%;
+    }
+    &__form__body {
+      width: 100%;
+      grid-column: 2/-1;
+      label input {
+        padding: 2rem;
+      }
+    }
+  }
+}

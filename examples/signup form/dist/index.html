@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simple form field</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+  </head>
+  <body>
+    <section class="signup">
+      <figure class="signup__heroimage">
+        <img
+          src="./assets/signupAndin/signup__heroimage.svg"
+          alt="signup heroimage"
+        />
+      </figure>
+
+      <form action="post" class="signup__form">
+        <h2 class="signup__form__title">Sign up</h2>
+        <div class="signup__form__body">
+          <label>
+            <input type="text" placeholder=" " required />
+            <span class="inputplaceholder">
+              <span>Name</span>
+              <img
+                class="placeholder-logo"
+                src="./assets/signupAndin/name-logo.svg"
+                alt=""
+              />
+            </span>
+          </label>
+          <label>
+            <input type="email" placeholder=" " required />
+            <span class="inputplaceholder">
+              <span>Email</span>
+              <img
+                class="placeholder-logo"
+                src="./assets/signupAndin/email-logo.svg"
+                alt=""
+              />
+            </span>
+          </label>
+          <label>
+            <input type="password" placeholder=" " required />
+            <span class="inputplaceholder">
+              <span>Password</span>
+              <img
+                class="placeholder-logo"
+                src="./assets/signupAndin/password-logo.svg"
+                alt=""
+              />
+            </span>
+          </label>
+          <button class="btn-signup">Sign up</button>
+          <p class="login">Already have an account ? <span>Sign in</span></p>
+        </div>
+      </form>
+    </section>
+    <script src="./scripts/script.js"></script>
+  </body>
+</html>
