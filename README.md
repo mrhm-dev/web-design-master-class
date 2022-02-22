@@ -77,6 +77,7 @@ In this repository, you will find source codes, explanations, and other resource
    - 7.1 [How to Place Two Divs Side by Side](https://www.youtube.com/watch?v=b5ftua7iNfI)
    - 7.2 [Float Creates an Invisible Layers](https://www.youtube.com/watch?v=AFD1eBe-at0)
    - 7.3 [Understand Floats and Clearfix](https://www.youtube.com/watch?v=9KK-kUKiK1s)
+   - 7.4 [How to Position Image Inside Text](https://www.youtube.com/watch?v=rik9W1S3Y84)
 10. CSS Flexbox
 11. CSS Grid Layout
 12. CSS Display Properties
