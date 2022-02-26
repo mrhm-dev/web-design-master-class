@@ -1,6 +1,6 @@
-![project overview](./dist/assets/projectSnap/projectSnapshot.png)
+![project overview](images/preview-img.png)
 
-# Find this project live [here 👈](https://jubaerahmad.github.io/web-design-master-class/)
+# live Demo [here 👈](https://jubaerahmad.github.io/css-note-listing-design/)
 
 ## This project is responsive. You can add javascript to make this design more interactive
 
@@ -10,3 +10,7 @@
 
 - HTML5
 - CSS3
+
+## **Design by:**
+
+- Facebook - [Jubaer Ahmad](https://github.com/SalahuddinAhammed)
