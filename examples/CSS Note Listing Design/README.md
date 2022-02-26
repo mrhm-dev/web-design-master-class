@@ -13,4 +13,4 @@
 
 ## **Design by:**
 
-- Facebook - [Jubaer Ahmad](https://github.com/SalahuddinAhammed)
+- Facebook - [Jubaer Ahmad](https://web.facebook.com/JubaerAhmad.Me/)
