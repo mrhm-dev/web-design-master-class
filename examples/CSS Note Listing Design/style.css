@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background-color: #dddddd;
+}
+
+.form {
+
+   flex-basis: 60%;
+   margin-bottom: 20px;
+   background-color: #dddddd;
+   padding: 20px;
+   border-radius: 10px;
+   box-shadow: 4px 4px 6px #666262,
+              -4px -4px 6px #666262;
+    margin-top: 20px;
+    
+    
+}
+
+.form h1 {
+    color: blue;
+    margin-bottom: 10px;
+}
+
+.form input, textarea, .form button {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 16px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.form button {
+    background-color: blue;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+}
+
+
+
+::placeholder {
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.line {
+    width: 100%;
+    height: 4px;
+    background-color: blue;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.title {
+    flex-basis: 80%;
+}
+
+.title h1 {
+    text-decoration: underline;
+    color: blue;
+} 
+
+.note {
+    flex-basis: 50%;
+    margin-bottom: 20px;
+    background-color: #dddddd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 6px #321097,
+               -4px -4px 6px #321097;
+     margin-top: 20px;
+     
+    
+}
+
+.button {
+    position: relative;
+    margin-top: 20px;
+}
+
+.button::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: blue;
+    top: -10px;
+    left: 0;
+}
+
+.button #editbtn, #delbtn {
+    border: none;
+    padding: 10px 30px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 10px 10px 0 10px;
+}
+
+.button #delbtn {
+    background-color: red;
+} 
