@@ -79,31 +79,35 @@ In this repository, you will find source codes, explanations, and other resource
    - 7.3 [Understand Floats and Clearfix](https://www.youtube.com/watch?v=9KK-kUKiK1s)
    - 7.4 [How to Position Image Inside Text](https://www.youtube.com/watch?v=rik9W1S3Y84)
 10. CSS Flexbox
-11. CSS Grid Layout
-12. CSS Display Properties
-13. CSS Positions
-14. CSS Pseudo Classes and Elements
-15. CSS Advanced Common Topics
-16. CSS Transformations
-17. CSS Transitions
-18. CSS Animations
-19. HTML Head
-20. HTML Link
-21. HTML List
-22. Project 1 - Navigation Bar
-23. Project 2 - HTML Dropdown Design
-24. Project 3 - HTML Mega
-25. Project 4 - HTML Table Design
-26. Project 5 - HTML Form Design
-27. Project 6 - Image Gallery
-28. Project 7 - Single Page Portfolio
-29. Project 8 - Multi Page Blog
-30. CSS Responsive Design
-31. CSS Frameworks
-32. Bootstrap 5 Layouts
-33. Bootstrap 5 Components
-34. Bootstrap 5 Utilities
-35. Project - 9 Bootstrap 5 Blog Design
-36. CSS Programming using SCSS
-37. Project 10 - Corporate Website
-38. Project 11 - ECommerce Website
+   - 8.1 [Understand CSS Flexbox](https://www.youtube.com/watch?v=fwZdP8Li-fs)
+   - 8.2 [Understand CSS Flex Container](https://www.youtube.com/watch?v=2577GpqKrKE)
+   - 8.3 [CSS Flex Container Properties](https://www.youtube.com/watch?v=zXEd_fqVAWc)
+   - 8.4 [Explore CSS Flex Items](https://www.youtube.com/watch?v=UUtEjDb9sfI)
+12. CSS Grid Layout
+13. CSS Display Properties
+14. CSS Positions
+15. CSS Pseudo Classes and Elements
+16. CSS Advanced Common Topics
+17. CSS Transformations
+18. CSS Transitions
+19. CSS Animations
+20. HTML Head
+21. HTML Link
+22. HTML List
+23. Project 1 - Navigation Bar
+24. Project 2 - HTML Dropdown Design
+25. Project 3 - HTML Mega
+26. Project 4 - HTML Table Design
+27. Project 5 - HTML Form Design
+28. Project 6 - Image Gallery
+29. Project 7 - Single Page Portfolio
+30. Project 8 - Multi Page Blog
+31. CSS Responsive Design
+32. CSS Frameworks
+33. Bootstrap 5 Layouts
+34. Bootstrap 5 Components
+35. Bootstrap 5 Utilities
+36. Project - 9 Bootstrap 5 Blog Design
+37. CSS Programming using SCSS
+38. Project 10 - Corporate Website
+39. Project 11 - ECommerce Website
