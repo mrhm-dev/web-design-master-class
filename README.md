@@ -84,30 +84,31 @@ In this repository, you will find source codes, explanations, and other resource
    - 8.3 [CSS Flex Container Properties](https://www.youtube.com/watch?v=zXEd_fqVAWc)
    - 8.4 [Explore CSS Flex Items](https://www.youtube.com/watch?v=UUtEjDb9sfI)
 12. CSS Grid Layout
-13. CSS Display Properties
-14. CSS Positions
-15. CSS Pseudo Classes and Elements
-16. CSS Advanced Common Topics
-17. CSS Transformations
-18. CSS Transitions
-19. CSS Animations
-20. HTML Head
-21. HTML Link
-22. HTML List
-23. Project 1 - Navigation Bar
-24. Project 2 - HTML Dropdown Design
-25. Project 3 - HTML Mega
-26. Project 4 - HTML Table Design
-27. Project 5 - HTML Form Design
-28. Project 6 - Image Gallery
-29. Project 7 - Single Page Portfolio
-30. Project 8 - Multi Page Blog
-31. CSS Responsive Design
-32. CSS Frameworks
-33. Bootstrap 5 Layouts
-34. Bootstrap 5 Components
-35. Bootstrap 5 Utilities
-36. Project - 9 Bootstrap 5 Blog Design
-37. CSS Programming using SCSS
-38. Project 10 - Corporate Website
-39. Project 11 - ECommerce Website
+   - 9.1 [Understand CSS Grid Layout in Bangla](https://www.youtube.com/watch?v=D91Us3bM_2g&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=41)
+14. CSS Display Properties
+15. CSS Positions
+16. CSS Pseudo Classes and Elements
+17. CSS Advanced Common Topics
+18. CSS Transformations
+19. CSS Transitions
+20. CSS Animations
+21. HTML Head
+22. HTML Link
+23. HTML List
+24. Project 1 - Navigation Bar
+25. Project 2 - HTML Dropdown Design
+26. Project 3 - HTML Mega
+27. Project 4 - HTML Table Design
+28. Project 5 - HTML Form Design
+29. Project 6 - Image Gallery
+30. Project 7 - Single Page Portfolio
+31. Project 8 - Multi Page Blog
+32. CSS Responsive Design
+33. CSS Frameworks
+34. Bootstrap 5 Layouts
+35. Bootstrap 5 Components
+36. Bootstrap 5 Utilities
+37. Project - 9 Bootstrap 5 Blog Design
+38. CSS Programming using SCSS
+39. Project 10 - Corporate Website
+40. Project 11 - ECommerce Website
