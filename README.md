@@ -86,29 +86,33 @@ In this repository, you will find source codes, explanations, and other resource
 12. CSS Grid Layout
    - 9.1 [Understand CSS Grid Layout in Bangla](https://www.youtube.com/watch?v=D91Us3bM_2g&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=41)
 14. CSS Display Properties
-15. CSS Positions
-16. CSS Pseudo Classes and Elements
-17. CSS Advanced Common Topics
-18. CSS Transformations
-19. CSS Transitions
-20. CSS Animations
-21. HTML Head
-22. HTML Link
-23. HTML List
-24. Project 1 - Navigation Bar
-25. Project 2 - HTML Dropdown Design
-26. Project 3 - HTML Mega
-27. Project 4 - HTML Table Design
-28. Project 5 - HTML Form Design
-29. Project 6 - Image Gallery
-30. Project 7 - Single Page Portfolio
-31. Project 8 - Multi Page Blog
-32. CSS Responsive Design
-33. CSS Frameworks
-34. Bootstrap 5 Layouts
-35. Bootstrap 5 Components
-36. Bootstrap 5 Utilities
-37. Project - 9 Bootstrap 5 Blog Design
-38. CSS Programming using SCSS
-39. Project 10 - Corporate Website
-40. Project 11 - ECommerce Website
+   - 10.1 [What Is Display Property](https://www.youtube.com/watch?v=vlhofYF5LLM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=43)
+   - 10.2 [Understand Inline Element And Block Element In CSS](https://www.youtube.com/watch?v=JLYJOE4MjCg&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=43)
+   - 10.3 [Understand CSS Inline Block In Details](https://www.youtube.com/watch?v=Q7CRFgOIr7A&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=45)
+   - 10.4 [Display None And Visibility Hidden Property In CSS](https://www.youtube.com/watch?v=xx14Q_kuO4s&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=45)
+16. CSS Positions
+17. CSS Pseudo Classes and Elements
+18. CSS Advanced Common Topics
+19. CSS Transformations
+20. CSS Transitions
+21. CSS Animations
+22. HTML Head
+23. HTML Link
+24. HTML List
+25. Project 1 - Navigation Bar
+26. Project 2 - HTML Dropdown Design
+27. Project 3 - HTML Mega
+28. Project 4 - HTML Table Design
+29. Project 5 - HTML Form Design
+30. Project 6 - Image Gallery
+31. Project 7 - Single Page Portfolio
+32. Project 8 - Multi Page Blog
+33. CSS Responsive Design
+34. CSS Frameworks
+35. Bootstrap 5 Layouts
+36. Bootstrap 5 Components
+37. Bootstrap 5 Utilities
+38. Project - 9 Bootstrap 5 Blog Design
+39. CSS Programming using SCSS
+40. Project 10 - Corporate Website
+41. Project 11 - ECommerce Website
