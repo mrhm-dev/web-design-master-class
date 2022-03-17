@@ -73,19 +73,23 @@ In this repository, you will find source codes, explanations, and other resource
    - 6.1 [What is box model](https://www.youtube.com/watch?v=9CTO44q92CE)
    - 6.2 [Box model in action](https://www.youtube.com/watch?v=G_qNcfGVwpU)
    - 6.3 [Box sizing border box](https://www.youtube.com/watch?v=aYWGm1Tmv3M&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=32)
-8. CSS Layout using Floats
+7. CSS Layout using Floats
    - 7.1 [How to Place Two Divs Side by Side](https://www.youtube.com/watch?v=b5ftua7iNfI)
    - 7.2 [Float Creates an Invisible Layers](https://www.youtube.com/watch?v=AFD1eBe-at0)
    - 7.3 [Understand Floats and Clearfix](https://www.youtube.com/watch?v=9KK-kUKiK1s)
    - 7.4 [How to Position Image Inside Text](https://www.youtube.com/watch?v=rik9W1S3Y84)
-10. CSS Flexbox
+8. CSS Flexbox
    - 8.1 [Understand CSS Flexbox](https://www.youtube.com/watch?v=fwZdP8Li-fs)
    - 8.2 [Understand CSS Flex Container](https://www.youtube.com/watch?v=2577GpqKrKE)
    - 8.3 [CSS Flex Container Properties](https://www.youtube.com/watch?v=zXEd_fqVAWc)
    - 8.4 [Explore CSS Flex Items](https://www.youtube.com/watch?v=UUtEjDb9sfI)
-12. CSS Grid Layout
+9. CSS Grid Layout
    - 9.1 [Understand CSS Grid Layout in Bangla](https://www.youtube.com/watch?v=D91Us3bM_2g&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=41)
-14. CSS Display Properties
+10. CSS Display Properties
+- 10.1 [What Is Display Property](https://youtu.be/vlhofYF5LLM)
+- 10.2 [Understand Inline Element And Block Element In CSS](https://youtu.be/JLYJOE4MjCg)
+- 10.3 [Understand CSS Inline Block In Details](https://youtu.be/Q7CRFgOIr7A)
+- 10.4 [Display None And Visibility Hidden Property In CSS](https://youtu.be/xx14Q_kuO4s)
 15. CSS Positions
 16. CSS Pseudo Classes and Elements
 17. CSS Advanced Common Topics
