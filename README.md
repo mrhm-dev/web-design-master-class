@@ -86,20 +86,26 @@ In this repository, you will find source codes, explanations, and other resource
 9. CSS Grid Layout
    - 9.1 [Understand CSS Grid Layout in Bangla](https://www.youtube.com/watch?v=D91Us3bM_2g&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=41)
 10. CSS Display Properties
-- 10.1 [What Is Display Property](https://youtu.be/vlhofYF5LLM)
-- 10.2 [Understand Inline Element And Block Element In CSS](https://youtu.be/JLYJOE4MjCg)
-- 10.3 [Understand CSS Inline Block In Details](https://youtu.be/Q7CRFgOIr7A)
-- 10.4 [Display None And Visibility Hidden Property In CSS](https://youtu.be/xx14Q_kuO4s)
+      - 10.1 [What Is Display Property](https://youtu.be/vlhofYF5LLM)
+      - 10.2 [Understand Inline Element And Block Element In CSS](https://youtu.be/JLYJOE4MjCg)
+      - 10.3 [Understand CSS Inline Block In Details](https://youtu.be/Q7CRFgOIr7A)
+      - 10.4 [Display None And Visibility Hidden Property In CSS](https://youtu.be/xx14Q_kuO4s)
+
 11. CSS Positions
-- 11.1 [What Is Position In CSS](https://youtu.be/OAMbp_q6DwI)
-- 11.2 [Understand Fixed Position In CSS](https://youtu.be/arePWP5GIjE)
-- 11.3 [Understand Relative Position In CSS](https://youtu.be/Pw9XasFwCXo)
-- 11.4 [Absolute Position In CSS](https://youtu.be/pB0geN7JO8s)
-- 11.5 [Z-Index In CSS](https://youtu.be/gVG6CkMfITA)
-- 11.6 [Z - Index Problem Resolved](https://youtu.be/1tFUdidlT4U)
-- 11.7 [Sticky Position In CSS](https://youtu.be/8pA4u6FxZYU)
-- 11.8 [Understand CSS Overflow Property](https://youtu.be/MU3r-NqjfoI)
-16. CSS Pseudo Classes and Elements
+
+      - 11.1 [What Is Position In CSS](https://youtu.be/OAMbp_q6DwI)
+      - 11.2 [Understand Fixed Position In CSS](https://youtu.be/arePWP5GIjE)
+      - 11.3 [Understand Relative Position In CSS](https://youtu.be/Pw9XasFwCXo)
+      - 11.4 [Absolute Position In CSS](https://youtu.be/pB0geN7JO8s)
+      - 11.5 [Z-Index In CSS](https://youtu.be/gVG6CkMfITA)
+      - 11.6 [Z - Index Problem Resolved](https://youtu.be/1tFUdidlT4U)
+      - 11.7 [Sticky Position In CSS](https://youtu.be/8pA4u6FxZYU)
+      - 11.8 [Understand CSS Overflow Property](https://youtu.be/MU3r-NqjfoI)
+12. CSS Pseudo Classes and Elements
+      - 12.1 [Understand Pseudo Classes & Pseudo Elements](https://youtu.be/4jWUdOJ-WvE)
+      - 12.2 [CSS Common Pseudo Classes In Bangla](https://youtu.be/7uug_4hx0eU)
+      - 12.3 [CSS Before & After Pseudo Elements In Bangla](https://youtu.be/PPxajhZBw5g)
+      - 12.4 [CSS First Letter, First Line, Marker & Selection](https://youtu.be/XMTaDlHgNEo)
 17. CSS Advanced Common Topics
 18. CSS Transformations
 19. CSS Transitions
