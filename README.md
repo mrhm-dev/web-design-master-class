@@ -73,46 +73,58 @@ In this repository, you will find source codes, explanations, and other resource
    - 6.1 [What is box model](https://www.youtube.com/watch?v=9CTO44q92CE)
    - 6.2 [Box model in action](https://www.youtube.com/watch?v=G_qNcfGVwpU)
    - 6.3 [Box sizing border box](https://www.youtube.com/watch?v=aYWGm1Tmv3M&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=32)
-8. CSS Layout using Floats
+7. CSS Layout using Floats
    - 7.1 [How to Place Two Divs Side by Side](https://www.youtube.com/watch?v=b5ftua7iNfI)
    - 7.2 [Float Creates an Invisible Layers](https://www.youtube.com/watch?v=AFD1eBe-at0)
    - 7.3 [Understand Floats and Clearfix](https://www.youtube.com/watch?v=9KK-kUKiK1s)
    - 7.4 [How to Position Image Inside Text](https://www.youtube.com/watch?v=rik9W1S3Y84)
-10. CSS Flexbox
+8. CSS Flexbox
    - 8.1 [Understand CSS Flexbox](https://www.youtube.com/watch?v=fwZdP8Li-fs)
    - 8.2 [Understand CSS Flex Container](https://www.youtube.com/watch?v=2577GpqKrKE)
    - 8.3 [CSS Flex Container Properties](https://www.youtube.com/watch?v=zXEd_fqVAWc)
    - 8.4 [Explore CSS Flex Items](https://www.youtube.com/watch?v=UUtEjDb9sfI)
-12. CSS Grid Layout
+9. CSS Grid Layout
    - 9.1 [Understand CSS Grid Layout in Bangla](https://www.youtube.com/watch?v=D91Us3bM_2g&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=41)
-14. CSS Display Properties
-   - 10.1 [What Is Display Property](https://www.youtube.com/watch?v=vlhofYF5LLM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=43)
-   - 10.2 [Understand Inline Element And Block Element In CSS](https://www.youtube.com/watch?v=JLYJOE4MjCg&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=43)
-   - 10.3 [Understand CSS Inline Block In Details](https://www.youtube.com/watch?v=Q7CRFgOIr7A&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=45)
-   - 10.4 [Display None And Visibility Hidden Property In CSS](https://www.youtube.com/watch?v=xx14Q_kuO4s&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=45)
-16. CSS Positions
-17. CSS Pseudo Classes and Elements
-18. CSS Advanced Common Topics
-19. CSS Transformations
-20. CSS Transitions
-21. CSS Animations
-22. HTML Head
-23. HTML Link
-24. HTML List
-25. Project 1 - Navigation Bar
-26. Project 2 - HTML Dropdown Design
-27. Project 3 - HTML Mega
-28. Project 4 - HTML Table Design
-29. Project 5 - HTML Form Design
-30. Project 6 - Image Gallery
-31. Project 7 - Single Page Portfolio
-32. Project 8 - Multi Page Blog
-33. CSS Responsive Design
-34. CSS Frameworks
-35. Bootstrap 5 Layouts
-36. Bootstrap 5 Components
-37. Bootstrap 5 Utilities
-38. Project - 9 Bootstrap 5 Blog Design
-39. CSS Programming using SCSS
-40. Project 10 - Corporate Website
-41. Project 11 - ECommerce Website
+10. CSS Display Properties
+      - 10.1 [What Is Display Property](https://youtu.be/vlhofYF5LLM)
+      - 10.2 [Understand Inline Element And Block Element In CSS](https://youtu.be/JLYJOE4MjCg)
+      - 10.3 [Understand CSS Inline Block In Details](https://youtu.be/Q7CRFgOIr7A)
+      - 10.4 [Display None And Visibility Hidden Property In CSS](https://youtu.be/xx14Q_kuO4s)
+11. CSS Positions
+      - 11.1 [What Is Position In CSS](https://youtu.be/OAMbp_q6DwI)
+      - 11.2 [Understand Fixed Position In CSS](https://youtu.be/arePWP5GIjE)
+      - 11.3 [Understand Relative Position In CSS](https://youtu.be/Pw9XasFwCXo)
+      - 11.4 [Absolute Position In CSS](https://youtu.be/pB0geN7JO8s)
+      - 11.5 [Z-Index In CSS](https://youtu.be/gVG6CkMfITA)
+      - 11.6 [Z - Index Problem Resolved](https://youtu.be/1tFUdidlT4U)
+      - 11.7 [Sticky Position In CSS](https://youtu.be/8pA4u6FxZYU)
+      - 11.8 [Understand CSS Overflow Property](https://youtu.be/MU3r-NqjfoI)
+12. CSS Pseudo Classes and Elements
+      - 12.1 [Understand Pseudo Classes & Pseudo Elements](https://youtu.be/4jWUdOJ-WvE)
+      - 12.2 [CSS Common Pseudo Classes In Bangla](https://youtu.be/7uug_4hx0eU)
+      - 12.3 [CSS Before & After Pseudo Elements In Bangla](https://youtu.be/PPxajhZBw5g)
+      - 12.4 [CSS First Letter, First Line, Marker & Selection](https://youtu.be/XMTaDlHgNEo)
+17. CSS Advanced Common Topics
+18. CSS Transformations
+19. CSS Transitions
+20. CSS Animations
+21. HTML Head
+22. HTML Link
+23. HTML List
+24. Project 1 - Navigation Bar
+25. Project 2 - HTML Dropdown Design
+26. Project 3 - HTML Mega
+27. Project 4 - HTML Table Design
+28. Project 5 - HTML Form Design
+29. Project 6 - Image Gallery
+30. Project 7 - Single Page Portfolio
+31. Project 8 - Multi Page Blog
+32. CSS Responsive Design
+33. CSS Frameworks
+34. Bootstrap 5 Layouts
+35. Bootstrap 5 Components
+36. Bootstrap 5 Utilities
+37. Project - 9 Bootstrap 5 Blog Design
+38. CSS Programming using SCSS
+39. Project 10 - Corporate Website
+40. Project 11 - ECommerce Website
