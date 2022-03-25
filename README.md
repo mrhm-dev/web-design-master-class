@@ -90,9 +90,7 @@ In this repository, you will find source codes, explanations, and other resource
       - 10.2 [Understand Inline Element And Block Element In CSS](https://youtu.be/JLYJOE4MjCg)
       - 10.3 [Understand CSS Inline Block In Details](https://youtu.be/Q7CRFgOIr7A)
       - 10.4 [Display None And Visibility Hidden Property In CSS](https://youtu.be/xx14Q_kuO4s)
-
 11. CSS Positions
-
       - 11.1 [What Is Position In CSS](https://youtu.be/OAMbp_q6DwI)
       - 11.2 [Understand Fixed Position In CSS](https://youtu.be/arePWP5GIjE)
       - 11.3 [Understand Relative Position In CSS](https://youtu.be/Pw9XasFwCXo)
