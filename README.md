@@ -104,14 +104,14 @@ In this repository, you will find source codes, explanations, and other resource
       - 12.2 [CSS Common Pseudo Classes In Bangla](https://youtu.be/7uug_4hx0eU)
       - 12.3 [CSS Before & After Pseudo Elements In Bangla](https://youtu.be/PPxajhZBw5g)
       - 12.4 [CSS First Letter, First Line, Marker & Selection](https://youtu.be/XMTaDlHgNEo)
-17. CSS Advanced Common Topics
+13. CSS Advanced Common Topics
       - 13.1 [CSS Rounded Corner | Advance CSS Common Topic](https://www.youtube.com/watch?v=0D6-kNwxzcA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=58)
       - 13.2 [CSS Background | Advance CSS Common Topic](https://www.youtube.com/watch?v=7jRmRIWEUpk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=59)
       - 13.3 [CSS Colors | Advance CSS Common Topic](https://www.youtube.com/watch?v=WihiVsCuPAI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=60)
       - 13.4 [CSS Gradients | Advance CSS Common Topic](https://www.youtube.com/watch?v=llt_CGEpSUU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=61)
       - 13.5 [CSS Box Shadow | Advance CSS Common Topic](https://www.youtube.com/watch?v=QVrfkV66SZA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=62)
       - 13.6 [CSS Object Fit Property | Advance CSS Common Topic](https://www.youtube.com/watch?v=lRaNEn0enhA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=63)
-19. CSS Transformations
+14. CSS Transformations
       - 14.1 [ What is CSS Transform](https://www.youtube.com/watch?v=j2IMdv96kYo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=64)
       - 14.2 [Position Element With CSS Translate Property](https://www.youtube.com/watch?v=K-BdDtKLCQ8&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=65)
       - 14.3 [Understand CSS Rotation](https://www.youtube.com/watch?v=gIosNV6Vh88&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=66)
@@ -119,25 +119,32 @@ In this repository, you will find source codes, explanations, and other resource
       - 14.5 [Skew Element With CSS Skew Property](https://www.youtube.com/watch?v=PnbzSwcDeiM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=68)
       - 14.6 [Understand CSS Matrix Property](https://www.youtube.com/watch?v=uMBMqQcYDL8&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=69)
       - 14.7 [Transform Element With CSS 3D Transformation Property](https://www.youtube.com/watch?v=080QXdms2cA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=70)
-21. CSS Transitions
-22. CSS Animations
-23. HTML Head
-24. HTML Link
-25. HTML List
-26. Project 1 - Navigation Bar
-27. Project 2 - HTML Dropdown Design
-28. Project 3 - HTML Mega
-29. Project 4 - HTML Table Design
-30. Project 5 - HTML Form Design
-31. Project 6 - Image Gallery
-32. Project 7 - Single Page Portfolio
-33. Project 8 - Multi Page Blog
-34. CSS Responsive Design
-35. CSS Frameworks
-36. Bootstrap 5 Layouts
-37. Bootstrap 5 Components
-38. Bootstrap 5 Utilities
-39. Project - 9 Bootstrap 5 Blog Design
-40. CSS Programming using SCSS
-41. Project 10 - Corporate Website
-42. Project 11 - ECommerce Website
+15. CSS Transitions
+     - 15.1 [CSS Transition Property](https://www.youtube.com/watch?v=nx_nPUBTjGQ&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=71)
+     - 15.2 [CSS Transition Timing Function](https://www.youtube.com/watch?v=bFSWyeTo74g&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=72)
+     - 15.3 [Cubic Bazier Function](https://www.youtube.com/watch?v=eZhUuMTMPWo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=73)
+16. CSS Animations
+     - 16.1 [Let's Explore CSS Animations](https://www.youtube.com/watch?v=78oY7YN1mxY&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=74)
+     - 16.2 [Iteration And Direction In CSS Animation](https://www.youtube.com/watch?v=Kj1tbIr4_DE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=75)
+     - 16.3 [Fill Mode In CSS Animation](https://www.youtube.com/watch?v=KPNTSqFes4s&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=76)
+     - 16.4 [CSS Animation Shorthand](https://www.youtube.com/watch?v=J5U-U1z13hw&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=77)
+17. HTML Head
+18. HTML Link
+19. HTML List
+20. Project 1 - Navigation Bar
+21. Project 2 - HTML Dropdown Design
+22. Project 3 - HTML Mega
+23. Project 4 - HTML Table Design
+24. Project 5 - HTML Form Design
+25. Project 6 - Image Gallery
+26. Project 7 - Single Page Portfolio
+27. Project 8 - Multi Page Blog
+28. CSS Responsive Design
+29. CSS Frameworks
+30. Bootstrap 5 Layouts
+31. Bootstrap 5 Components
+32. Bootstrap 5 Utilities
+33. Project - 9 Bootstrap 5 Blog Design
+34. CSS Programming using SCSS
+35. Project 10 - Corporate Website
+36. Project 11 - ECommerce Website
