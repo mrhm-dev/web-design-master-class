@@ -128,7 +128,7 @@ In this repository, you will find source codes, explanations, and other resource
      - 16.2 [Iteration And Direction In CSS Animation](https://www.youtube.com/watch?v=Kj1tbIr4_DE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=75)
      - 16.3 [Fill Mode In CSS Animation](https://www.youtube.com/watch?v=KPNTSqFes4s&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=76)
      - 16.4 [CSS Animation Shorthand](https://www.youtube.com/watch?v=J5U-U1z13hw&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=77)
-17. HTML Head
+17. HTML Head                                                                                                                                                - 17.1 [HTML Head & Meta Tags](https://www.youtube.com/watch?v=ME-yHsG1TlU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=78)
 18. HTML Link
 19. HTML List
 20. Project 1 - Navigation Bar
