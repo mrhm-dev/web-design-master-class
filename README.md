@@ -129,12 +129,15 @@ In this repository, you will find source codes, explanations, and other resource
      - 16.3 [Fill Mode In CSS Animation](https://www.youtube.com/watch?v=KPNTSqFes4s&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=76)
      - 16.4 [CSS Animation Shorthand](https://www.youtube.com/watch?v=J5U-U1z13hw&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=77)
 17. HTML Head                                                                                                                                                - 17.1 [HTML Head & Meta Tags](https://www.youtube.com/watch?v=ME-yHsG1TlU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=78)
-18. HTML Link
-19. HTML List
-20. Project 1 - Navigation Bar
-21. Project 2 - HTML Dropdown Design
-22. Project 3 - HTML Mega
-23. Project 4 - HTML Table Design
+18. HTML Link                                                                                                                                                 - 18.1 [Different States of HTML Links](https://www.youtube.com/watch?v=H_LCWNDvEJo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=79)
+19. HTML List                                                                                                                                                 - 19.1 [Understand HTML Lists](https://www.youtube.com/watch?v=MSZu-uPJmUY&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=80)
+      - 19.2 [Understand HTML Ordered List](https://www.youtube.com/watch?v=FhclIce0L3A&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=81)
+      - 19.3 [Understand HTML Unordered List](https://www.youtube.com/watch?v=uUyzuDuj_A0&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=82)
+      - 19.4 [Understand HTML Description List](https://www.youtube.com/watch?v=igsY29swrQk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=83)
+20 Project 1 - Navigation Bar
+21 Project 2 - HTML Dropdown Design
+22 Project 3 - HTML Mega
+23 Project 4 - HTML Table Design
 24. Project 5 - HTML Form Design
 25. Project 6 - Image Gallery
 26. Project 7 - Single Page Portfolio
