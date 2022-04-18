@@ -137,6 +137,11 @@ In this repository, you will find source codes, explanations, and other resource
       - 19.3 [Understand HTML Unordered Lists](https://www.youtube.com/watch?v=uUyzuDuj_A0&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=82)
       - 19.4 [Understand HTML Description Lists](https://www.youtube.com/watch?v=igsY29swrQk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=83)
 21. Project 1 - Navigation Bar
+      - 20.1 [Create Navigation Bar Markup](https://www.youtube.com/watch?v=dP-SYFn0REI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=84)
+      - 20.2 [Add Style To navbar](https://www.youtube.com/watch?v=ry5SpWzbAW4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=85)
+      - 20.3 [Create Navigation Bar Brand Design](https://www.youtube.com/watch?v=Wvr6LgjTxaE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=86)
+      - 20.4 [Create Navbar Left Side Menu](https://www.youtube.com/watch?v=2ZxArSIlMtE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=87)
+      - 20.5 [Create Navbar Right Side Menu](https://www.youtube.com/watch?v=aky8Ak_LoP4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=88)
 22. Project 2 - HTML Dropdown Design
 23. Project 3 - HTML Mega
 24. Project 4 - HTML Table Design
