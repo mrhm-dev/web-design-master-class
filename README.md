@@ -130,21 +130,26 @@ In this repository, you will find source codes, explanations, and other resource
      - 16.4 [CSS Animation Shorthand](https://www.youtube.com/watch?v=J5U-U1z13hw&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=77)
 17. HTML Head                                                                                                                                                - 17.1 [HTML Head & Meta Tags](https://www.youtube.com/watch?v=ME-yHsG1TlU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=78)
 18. HTML Link
-19. HTML List
-20. Project 1 - Navigation Bar
-21. Project 2 - HTML Dropdown Design
-22. Project 3 - HTML Mega
-23. Project 4 - HTML Table Design
-24. Project 5 - HTML Form Design
-25. Project 6 - Image Gallery
-26. Project 7 - Single Page Portfolio
-27. Project 8 - Multi Page Blog
-28. CSS Responsive Design
-29. CSS Frameworks
-30. Bootstrap 5 Layouts
-31. Bootstrap 5 Components
-32. Bootstrap 5 Utilities
-33. Project - 9 Bootstrap 5 Blog Design
-34. CSS Programming using SCSS
-35. Project 10 - Corporate Website
-36. Project 11 - ECommerce Website
+[Different States of HTML Links](https://www.youtube.com/watch?v=H_LCWNDvEJo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=79)
+20. HTML List
+      - 19.1 [Understand HTML Lists](https://www.youtube.com/watch?v=MSZu-uPJmUY&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=80)
+      - 19.2 [Understand HTML Ordered Lists](https://www.youtube.com/watch?v=FhclIce0L3A&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=81)
+      - 19.3 [Understand HTML Unordered Lists](https://www.youtube.com/watch?v=uUyzuDuj_A0&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=82)
+      - 19.4 [Understand HTML Description Lists](https://www.youtube.com/watch?v=igsY29swrQk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=83)
+21. Project 1 - Navigation Bar
+22. Project 2 - HTML Dropdown Design
+23. Project 3 - HTML Mega
+24. Project 4 - HTML Table Design
+25. Project 5 - HTML Form Design
+26. Project 6 - Image Gallery
+27. Project 7 - Single Page Portfolio
+28. Project 8 - Multi Page Blog
+29. CSS Responsive Design
+30. CSS Frameworks
+31. Bootstrap 5 Layouts
+32. Bootstrap 5 Components
+33. Bootstrap 5 Utilities
+34. Project - 9 Bootstrap 5 Blog Design
+35. CSS Programming using SCSS
+36. Project 10 - Corporate Website
+37. Project 11 - ECommerce Website
