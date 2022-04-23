@@ -131,25 +131,33 @@ In this repository, you will find source codes, explanations, and other resource
 17. HTML Head                                                                                                                                                - 17.1 [HTML Head & Meta Tags](https://www.youtube.com/watch?v=ME-yHsG1TlU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=78)
 18. HTML Link
 [Different States of HTML Links](https://www.youtube.com/watch?v=H_LCWNDvEJo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=79)
-20. HTML List
+19. HTML List
       - 19.1 [Understand HTML Lists](https://www.youtube.com/watch?v=MSZu-uPJmUY&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=80)
       - 19.2 [Understand HTML Ordered Lists](https://www.youtube.com/watch?v=FhclIce0L3A&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=81)
       - 19.3 [Understand HTML Unordered Lists](https://www.youtube.com/watch?v=uUyzuDuj_A0&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=82)
       - 19.4 [Understand HTML Description Lists](https://www.youtube.com/watch?v=igsY29swrQk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=83)
-21. Project 1 - Navigation Bar
-22. Project 2 - HTML Dropdown Design
-23. Project 3 - HTML Mega
-24. Project 4 - HTML Table Design
-25. Project 5 - HTML Form Design
-26. Project 6 - Image Gallery
-27. Project 7 - Single Page Portfolio
-28. Project 8 - Multi Page Blog
-29. CSS Responsive Design
-30. CSS Frameworks
-31. Bootstrap 5 Layouts
-32. Bootstrap 5 Components
-33. Bootstrap 5 Utilities
-34. Project - 9 Bootstrap 5 Blog Design
-35. CSS Programming using SCSS
-36. Project 10 - Corporate Website
-37. Project 11 - ECommerce Website
+20. Project 1 - Navigation Bar
+      - 20.1 [Create Navigation Bar Markup](https://www.youtube.com/watch?v=dP-SYFn0REI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=84)
+      - 20.2 [Add Style To navbar](https://www.youtube.com/watch?v=ry5SpWzbAW4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=85)
+      - 20.3 [Create Navigation Bar Brand Design](https://www.youtube.com/watch?v=Wvr6LgjTxaE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=86)
+      - 20.4 [Create Navbar Left Side Menu](https://www.youtube.com/watch?v=2ZxArSIlMtE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=87)
+      - 20.5 [Create Navbar Right Side Menu](https://www.youtube.com/watch?v=aky8Ak_LoP4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=88)
+21. Project 2 - HTML Dropdown Design
+      - 21.1 [Create Dropdown Markup](https://www.youtube.com/watch?v=kk7oDhT_BVs&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=89)
+      - 21.2 [Create Dropdown Base Design](https://www.youtube.com/watch?v=19hyv__dXxY&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=90)
+      - 21.3 [Dropdown Item Design](https://www.youtube.com/watch?v=qvGNRvouzOA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=91)
+22. Project 3 - HTML Mega
+23. Project 4 - HTML Table Design
+24. Project 5 - HTML Form Design
+25. Project 6 - Image Gallery
+26. Project 7 - Single Page Portfolio
+27. Project 8 - Multi Page Blog
+28. CSS Responsive Design
+29. CSS Frameworks
+30. Bootstrap 5 Layouts
+31. Bootstrap 5 Components
+32. Bootstrap 5 Utilities
+33. Project - 9 Bootstrap 5 Blog Design
+34. CSS Programming using SCSS
+35. Project 10 - Corporate Website
+36. Project 11 - ECommerce Website
