@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  width: 100vw;
+  min-height: 100vh;
+}
+/* Nav Container Star */
+nav {
+  width: 100%;
+  height: 65px;
+  background-color: rgb(1, 1, 39);
+}
+.container {
+  width: 60%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+/* Nav Container ends */
+
+/* Brand section start  */
+.brand-section {
+  display: flex;
+  align-items: center;
+}
+.brand-logo {
+  margin-right: 1rem;
+}
+.brand-logo span {
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+.brand-title a {
+  text-decoration: none;
+  color: #fff;
+}
+/* Brand Section ends  */
+
+/* Main menu section start */
+.main-menu {
+  display: flex;
+  margin-left: 2rem;
+}
+.main-menu a,
+.right-menu a {
+  display: inline-block;
+  margin-right: 1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+.main-menu a:hover {
+  text-decoration: underline;
+  color: #ffff00;
+}
+
+/* Main menu section ends */
+
+/* Right menu section start */
+.right-menu {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+.right-menu button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+}
+.right-menu button > span {
+  font-size: 1.5rem;
+}
+/* Right menu section ends */
+
+/* Dropdown Start */
+.dropdown {
+  position: relative;
+}
+.dropdown:hover .dropdown-items {
+  display: block;
+}
+.dropdown > .dropdown-items {
+  position: absolute;
+  right: 0;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 200px;
+  border-radius: 0.15rem;
+  display: none;
+}
+.dropdown-items-ul {
+  list-style: none;
+}
+.dropdown-item-li {
+  padding: 0.5rem 1rem;
+  text-align: left;
+}
+.dropdown-item-li:hover {
+  background-color: #ddd;
+}
+.dropdown-item-li a {
+  color: #333;
+  font-size: 0.9rem;
+  font-weight: bold;
+  letter-spacing: normal;
+}
+.divider {
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+/* Dropdown End */
+
+/* mega menu start  */
+.mega-menu {
+  position: relative;
+  padding: 1rem 0;
+}
+.mega-menu:hover .mega-menu-container {
+  display: flex;
+  gap: 2rem;
+}
+
+.mega-menu-container {
+  position: absolute;
+  top: 100%;
+  width: 700px;
+  height: 300px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  display: none;
+  padding: 1rem 2rem;
+}
+.category-title {
+  /* bug fix add margin left to match child position */
+  margin-left: 1rem;
+}
+.category-list {
+  list-style: none;
+  margin-top: 1rem;
+}
+.category-item {
+  padding: 0.5rem 1rem;
+}
+.category-item a {
+  color: #333;
+  font-size: 0.8rem;
+  text-align: left;
+}
+.category-item a:hover {
+  color: green;
+}
+/* mega menu end  */
