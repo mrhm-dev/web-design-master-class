@@ -83,3 +83,41 @@ nav {
   font-size: 1.5rem;
 }
 /* Right menu section ends */
+
+/* Dropdown Start */
+.dropdown {
+  position: relative;
+}
+.dropdown:hover .dropdown-items {
+  display: block;
+}
+.dropdown > .dropdown-items {
+  position: absolute;
+  right: 0;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 200px;
+  border-radius: 0.15rem;
+  display: none;
+}
+.dropdown-items-ul {
+  list-style: none;
+}
+.dropdown-item-li {
+  padding: 0.5rem 1rem;
+  text-align: left;
+}
+.dropdown-item-li:hover {
+  background-color: #ddd;
+}
+.dropdown-item-li a {
+  color: #333;
+  font-size: 0.9rem;
+  font-weight: bold;
+  letter-spacing: normal;
+}
+.divider {
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+/* Dropdown End */
