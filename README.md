@@ -4,7 +4,7 @@ In this repository, you will find source codes, explanations, and other resource
 
 ## Quick Links:
 
-[Youtube Playlist Link](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN)
+[YouTube Playlist Link](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN)
 
 [Source Codes](https://github.com/mrhm-dev/web-design-master-class/tree/master/src)
 
@@ -36,7 +36,7 @@ In this repository, you will find source codes, explanations, and other resource
      - 2.5.8 [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
      - 2.5.9 [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
      - 2.5.10 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-     - 2.5.11 [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) _VScode(Emmet) already has this feature. Type lorem and number of word and hit tab. Example. lorem100_
+     - 2.5.11 [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) _VSCode(Emmet) already has this feature. Type lorem and number of word and hit tab. Example. lorem100_
      - 2.5.12 (File Icon Theme) [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
      - 2.5.13 [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
      - 2.5.14 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -122,7 +122,7 @@ In this repository, you will find source codes, explanations, and other resource
 15. CSS Transitions
     - 15.1 [CSS Transition Property](https://www.youtube.com/watch?v=nx_nPUBTjGQ&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=71)
     - 15.2 [CSS Transition Timing Function](https://www.youtube.com/watch?v=bFSWyeTo74g&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=72)
-    - 15.3 [Cubic Bazier Function](https://www.youtube.com/watch?v=eZhUuMTMPWo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=73)
+    - 15.3 [Cubic Bezier Function](https://www.youtube.com/watch?v=eZhUuMTMPWo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=73)
 16. CSS Animations
     - 16.1 [Let's Explore CSS Animations](https://www.youtube.com/watch?v=78oY7YN1mxY&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=74)
     - 16.2 [Iteration And Direction In CSS Animation](https://www.youtube.com/watch?v=Kj1tbIr4_DE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=75)
