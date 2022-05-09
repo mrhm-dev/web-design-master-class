@@ -147,7 +147,13 @@ In this repository, you will find source codes, explanations, and other resource
     - 21.2 [Create Dropdown Base Design](https://www.youtube.com/watch?v=19hyv__dXxY&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=90)
     - 21.3 [Dropdown Item Design](https://www.youtube.com/watch?v=qvGNRvouzOA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=91)
 22. Project 3 - HTML Mega
+    - 22.1 [Setup Dropdown Menu](https://youtu.be/rE8J5G36r54)
+    - 22.2 [Structure Mega Menu](https://youtu.be/yFpSERXLtn4)
+    - 22.3 [Style Mega Menu](https://youtu.be/k4lUe18zcrQ)
 23. Project 4 - HTML Table Design
+    - 23.1 [Understand HTML Table](https://youtu.be/EFZ90ePfbPM)
+    - 23.2 [Markup Table Element](https://youtu.be/eTJ6OuGIjGk)
+    - 23.3 [Style Table Element](https://youtu.be/kxS-bQ19bQg)
 24. Project 5 - HTML Form Design
 25. Project 6 - Image Gallery
 26. Project 7 - Single Page Portfolio
