@@ -12,7 +12,91 @@
       <header class="heading">
         <h1>Complex Form Design</h1>
       </header>
-      <section class="form-section"></section>
+      <section class="form-section">
+        <form>
+          <div class="inline-form">
+            <div class="form-group">
+              <label for="first-name">First Name</label>
+              <input type="text" placeholder="HM" id="first-name" />
+            </div>
+            <div class="form-group">
+              <label for="last-name">Last Name</label>
+              <input type="text" placeholder="Nayem" id="last-name" />
+            </div>
+          </div>
+          <div class="inline-form">
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" placeholder="user@example.com" id="email" />
+            </div>
+            <div class="form-group">
+              <label for="phone">Phone No</label>
+              <input type="tel" placeholder="+8801715625557" id="phone" />
+            </div>
+          </div>
+          <div class="inline-form">
+            <div class="form-group">
+              <label for="country">Country</label>
+              <select id="country">
+                <option value="Bangladesh" selected>Bangladesh</option>
+                <option value="India">India</option>
+                <option value="Pakistan">Pakistan</option>
+                <option value="Srilanka">Srilanka</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="city">City</label>
+              <select id="city">
+                <option value="Dhaka" selected>Dhaka</option>
+                <option value="Kushtia">Kushtia</option>
+                <option value="Khulna">Khulna</option>
+                <option value="Mumbai">Mumbai</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Gender</label>
+            <div class="radio-inline-group">
+              <div class="radio-inline">
+                <input type="radio" value="Male" id="male" name="gender" />
+                <label for="male">Male</label>
+              </div>
+              <div class="radio-inline">
+                <input type="radio" value="Female" id="female" name="gender" />
+                <label for="female">Female</label>
+              </div>
+              <div class="radio-inline">
+                <input type="radio" value="Other" id="other" name="gender" />
+                <label for="other">Other</label>
+              </div>
+            </div>
+          </div>
+          <div class="form-group bio">
+            <label for="bio">Short Bio</label>
+            <textarea id="bio"></textarea>
+          </div>
+          <div class="inline-form">
+            <div class="form-group">
+              <label for="password">Password</label>
+              <input type="password" placeholder="Password" id="password" />
+            </div>
+            <div class="form-group">
+              <label for="password2">Confirm Password</label>
+              <input type="password" placeholder="password" id="password2" />
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="radio-inline">
+              <input type="checkbox" id="aggreement" />>
+              <label for="aggreement"> I accept terms and conditions </label>
+            </div>
+          </div>
+          <div class="form-group">
+            <button class="btn btn-reset" type="reset">Reset</button>
+            <button class="btn btn-submit" type="submit">Submit</button>
+          </div>
+        </form>
+      </section>
     </div>
   </body>
 </html>
