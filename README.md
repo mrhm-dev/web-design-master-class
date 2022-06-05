@@ -179,6 +179,11 @@ In this repository, you will find source codes, explanations, and other resource
     - 27.4 [Multi-Page Blog Project Details page](https://www.youtube.com/watch?v=VFN56uHQkNU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=117)
     - 27.5 [Multi Page Blog Project Contact Form](https://www.youtube.com/watch?v=2o7DEF96PUk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=118)
 28. CSS Responsive Design
+    - 28.1 [What is Responsive Web Design](https://www.youtube.com/watch?v=XdGtXO7CBEo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=119)
+    - 28.2 [How To Design Responsive Website](https://www.youtube.com/watch?v=NYNJFmBLaLo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=120)
+    - 28.3 [Let’s Understand Viewport](https://www.youtube.com/watch?v=o8ifDE9aKDI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=121)
+    - 28.4 [Understand CSS Media Query](https://www.youtube.com/watch?v=Z5pqg8RDbNE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=122)
+    - 28.5 [Understand Responsive Flexbox](https://www.youtube.com/watch?v=AoX6EAaMsUw&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=123)
 29. CSS Frameworks
 30. Bootstrap 5 Layouts
 31. Bootstrap 5 Components
