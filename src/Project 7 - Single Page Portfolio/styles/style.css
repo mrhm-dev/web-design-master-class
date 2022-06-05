@@ -93,4 +93,58 @@ nav {
 .profile-info-container {
 	width: 930px;
 }
+.profile-info {
+	margin-top: 55px;
+	margin-left: 50px;
+}
+.profile-name {
+	font-weight: bold;
+	font-size: 36px;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: #333333;
+}
+.profile-title {
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 30px;
+	letter-spacing: 0.04em;
+	text-transform: capitalize;
+	color: #555555;
+	margin-top: 7px;
+}
+.social-links {
+	margin-top: 45px;
+	display: flex;
+	align-items: center;
+}
+.social-links img {
+	width: 32px;
+	margin-right: 14px;
+}
+.skill-chips {
+	display: flex;
+	margin-top: 20px;
+}
+.skill-chip {
+	background: #151d38;
+	color: #ffffff;
+	padding: 8px 7px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+	font-size: 14px;
+	font-weight: 600;
+	margin-right: 14px;
+}
+.profile-bio {
+	font-size: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 0.04em;
+	color: #555555;
+	margin-top: 42px;
+	margin-right: 147px;
+}
 /* Profile card section ends */
