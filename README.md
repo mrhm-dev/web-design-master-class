@@ -185,9 +185,22 @@ In this repository, you will find source codes, explanations, and other resource
     - 28.4 [Understand CSS Media Query](https://www.youtube.com/watch?v=Z5pqg8RDbNE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=122)
     - 28.5 [Understand Responsive Flexbox](https://www.youtube.com/watch?v=AoX6EAaMsUw&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=123)
 29. CSS Frameworks
+    - 29.1 [Our Own CSS Framework](https://www.youtube.com/watch?v=ukdgf2Qp-5E&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=124)
+    - 29.2 [What is CSS Framework](https://www.youtube.com/watch?v=67dBBhNOqHo&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=125)
+    - 29.3 [Top 5 CSS Frameworks](https://www.youtube.com/watch?v=mfXfy6egNIk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=126)
+    - 29.4 [Let’s Understand Bootstrap](https://www.youtube.com/watch?v=Fxf0pP6yr0o&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=127)
 30. Bootstrap 5 Layouts
+    - 30.1 [Bootstrap 5 Breakpoint](https://www.youtube.com/watch?v=7Q3fWkVuTfg&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=128)
+    - 30.2 [Bootstrap 5 Containers](https://www.youtube.com/watch?v=T_YFgXHM7QQ&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=129)
+    - 30.3 [Bootstrap Grid System](https://www.youtube.com/watch?v=stXOiisKkYM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=130)
+    - 30.4 [Responsive Grid Design](https://www.youtube.com/watch?v=ihkrs-SCGKY&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=131)
 31. Bootstrap 5 Components
-32. Bootstrap 5 Utilities
+    - 31.1 [Bootstrap 5 Navbar Components](https://www.youtube.com/watch?v=gCjS8vgZ3XE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=132)
+    - 31.2 [Bootstrap 5 Card Components](https://www.youtube.com/watch?v=6GDqAh0HDes&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=133)
+    - 31.3 [Bootstrap 5 List Group Component](https://www.youtube.com/watch?v=mpgkG6TOwnI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=134)
+    - 31.4 [Bootstrap 5 Table Component](https://www.youtube.com/watch?v=6fkWC9qGGzw&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=135)
+    - 31.5 [Bootstrap 5 Form Component](https://www.youtube.com/watch?v=wGB75nFrRg8&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=136)
+32. Bootstrap 5 Utilities - [Overview of Bootstrap Utilities](https://www.youtube.com/watch?v=4CDf7hnpzjU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=137)
 33. Project - 9 Bootstrap 5 Blog Design
 34. CSS Programming using SCSS
 35. Project 10 - Corporate Website
