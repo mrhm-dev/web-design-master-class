@@ -167,6 +167,11 @@ In this repository, you will find source codes, explanations, and other resource
     - 25.3 [Stretch Gallery Images](https://www.youtube.com/watch?v=ETYkxu5FI4Y&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=107)
     - 25.4 [Masonry Image Gallery](https://www.youtube.com/watch?v=2AEuxHBZuqs&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=108)
 26. Project 7 - Single Page Portfolio
+    - 26.1 [Single Page Portfolio Project Intro](https://www.youtube.com/watch?v=0w-xo0jrT6I&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=109)
+    - 26.2 [Project Part 1 - Planing On Figma](https://www.youtube.com/watch?v=Zh9gYGr1tRM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=110)
+    - 26.3 [Single Page Portfolio Project Part 2](https://www.youtube.com/watch?v=lb-gB9Pamp4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=111)
+    - 26.4 [Single Page Portfolio Project Part 3](https://www.youtube.com/watch?v=fOwdICigcYA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=112)
+    - 26.5 [Single Page Portfolio Project Part 4](https://www.youtube.com/watch?v=veUzE1apDYc&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=113)
 27. Project 8 - Multi Page Blog
 28. CSS Responsive Design
 29. CSS Frameworks
