@@ -151,6 +151,11 @@ In this repository, you will find source codes, explanations, and other resource
     - 22.2 [Structure Mega Menu](https://www.youtube.com/watch?v=yFpSERXLtn4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=94)
     - 22.3 [Style Mega Menu](https://www.youtube.com/watch?v=k4lUe18zcrQ&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=95)
 23. Project 4 - HTML Table Design
+
+    - 23.1 [Understand HTML Table](https://www.youtube.com/watch?v=EFZ90ePfbPM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=96)
+    - 23.2 [Markup Table Element](https://www.youtube.com/watch?v=eTJ6OuGIjGk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=97)
+    - 23.3 [Style Table Element](https://www.youtube.com/watch?v=kxS-bQ19bQg&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=98)
+
 24. Project 5 - HTML Form Design
 25. Project 6 - Image Gallery
 26. Project 7 - Single Page Portfolio
