@@ -151,12 +151,18 @@ In this repository, you will find source codes, explanations, and other resource
     - 22.2 [Structure Mega Menu](https://www.youtube.com/watch?v=yFpSERXLtn4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=94)
     - 22.3 [Style Mega Menu](https://www.youtube.com/watch?v=k4lUe18zcrQ&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=95)
 23. Project 4 - HTML Table Design
-
     - 23.1 [Understand HTML Table](https://www.youtube.com/watch?v=EFZ90ePfbPM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=96)
     - 23.2 [Markup Table Element](https://www.youtube.com/watch?v=eTJ6OuGIjGk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=97)
     - 23.3 [Style Table Element](https://www.youtube.com/watch?v=kxS-bQ19bQg&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=98)
-
 24. Project 5 - HTML Form Design
+
+    - 24.1 [HTML Form And Attributes](https://www.youtube.com/watch?v=k5_nGx_2Bj4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=99)
+    - 24.2 [HTML Form Elements](https://www.youtube.com/watch?v=WaSsWaBNoZI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=100)
+    - 24.3 [Explore HTML Input Types](https://www.youtube.com/watch?v=gyP47q7Esc8&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=101)
+    - 24.4 [Let's Create A Simple Form](https://www.youtube.com/watch?v=BwtKYolcjQI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=102)
+    - 24.5 [Let's Markup A Complex Form](https://www.youtube.com/watch?v=Z3YKcJAflmk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=103)
+    - 24.6 [Complex Form Design ](https://www.youtube.com/watch?v=Ed_bEOkYeL4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=104)
+
 25. Project 6 - Image Gallery
 26. Project 7 - Single Page Portfolio
 27. Project 8 - Multi Page Blog
