@@ -155,15 +155,17 @@ In this repository, you will find source codes, explanations, and other resource
     - 23.2 [Markup Table Element](https://www.youtube.com/watch?v=eTJ6OuGIjGk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=97)
     - 23.3 [Style Table Element](https://www.youtube.com/watch?v=kxS-bQ19bQg&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=98)
 24. Project 5 - HTML Form Design
-
     - 24.1 [HTML Form And Attributes](https://www.youtube.com/watch?v=k5_nGx_2Bj4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=99)
     - 24.2 [HTML Form Elements](https://www.youtube.com/watch?v=WaSsWaBNoZI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=100)
     - 24.3 [Explore HTML Input Types](https://www.youtube.com/watch?v=gyP47q7Esc8&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=101)
     - 24.4 [Let's Create A Simple Form](https://www.youtube.com/watch?v=BwtKYolcjQI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=102)
     - 24.5 [Let's Markup A Complex Form](https://www.youtube.com/watch?v=Z3YKcJAflmk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=103)
     - 24.6 [Complex Form Design ](https://www.youtube.com/watch?v=Ed_bEOkYeL4&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=104)
-
 25. Project 6 - Image Gallery
+    - 25.1 [Let's Create Simple Image Gallery Project](https://www.youtube.com/watch?v=DMUmNTAyaZM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=105)
+    - 25.2 [Center Align The Gallery](https://www.youtube.com/watch?v=36Ern2oS2Ms&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=106)
+    - 25.3 [Stretch Gallery Images](https://www.youtube.com/watch?v=ETYkxu5FI4Y&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=107)
+    - 25.4 [Masonry Image Gallery](https://www.youtube.com/watch?v=2AEuxHBZuqs&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=108)
 26. Project 7 - Single Page Portfolio
 27. Project 8 - Multi Page Blog
 28. CSS Responsive Design
