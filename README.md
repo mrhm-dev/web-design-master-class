@@ -173,6 +173,11 @@ In this repository, you will find source codes, explanations, and other resource
     - 26.4 [Single Page Portfolio Project Part 3](https://www.youtube.com/watch?v=fOwdICigcYA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=112)
     - 26.5 [Single Page Portfolio Project Part 4](https://www.youtube.com/watch?v=veUzE1apDYc&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=113)
 27. Project 8 - Multi Page Blog
+    - 27.1 [Multi Page Blog Navigation Bar ](https://www.youtube.com/watch?v=X16VOmXrPLM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=114)
+    - 27.2 [Multi Page Blog Project Footer & Layout](https://www.youtube.com/watch?v=bC82m_6PXXU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=115)
+    - 27.3 [Multi Page Blog- Home Page & Blog Page](https://www.youtube.com/watch?v=HcTcOl55jlI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=116)
+    - 27.4 [Multi-Page Blog Project Details page](https://www.youtube.com/watch?v=VFN56uHQkNU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=117)
+    - 27.5 [Multi Page Blog Project Contact Form](https://www.youtube.com/watch?v=2o7DEF96PUk&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=118)
 28. CSS Responsive Design
 29. CSS Frameworks
 30. Bootstrap 5 Layouts
