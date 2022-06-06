@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 60%;
+  margin: 20px auto;
+}
+.table {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.table caption {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+.table,
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+}
+.table th,
+.table td {
+  padding: 1rem;
+}
+
+.table tr:nth-child(even) {
+  background-color: #ddd;
+}
+.table thead tr:nth-child(2) {
+  background-color: transparent;
+}
+
+.table tr:hover {
+  background-color: bisque;
+}
+.table thead tr:hover {
+  background-color: transparent;
+}
