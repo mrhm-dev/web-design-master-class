@@ -1,0 +1,96 @@
+* {
+	box-sizing: border-box;
+}
+html,
+body {
+	width: 100vw;
+	min-height: 100vh;
+	background-color: #efefef;
+	font-family: "Quicksand", sans-serif;
+}
+/* Container Class */
+.container {
+	width: 1400px;
+	margin: 0 auto;
+}
+/* Navigation Bar Design Start */
+nav {
+	width: 100%;
+	height: 100px;
+	background-color: #151d38;
+	color: #ffffff;
+}
+.nav-container {
+	height: 100px;
+	display: flex;
+	align-items: center;
+}
+.nav-item-container {
+	margin-left: auto;
+	display: flex;
+}
+.brand h1 {
+	font-size: 48px;
+	font-weight: 700;
+}
+.nav-item {
+	margin-left: 24px;
+}
+/* Todo:  Set individual Link style later on */
+.nav-item a,
+.nav-item a:visited,
+.nav-item a:active,
+.nav-item a:hover {
+	font-size: 24px;
+	font-weight: 500;
+	color: #ffffff;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+/* Navigation Bar Design ends */
+
+/* Profile card section start */
+
+.profile-card-container {
+	width: 100%;
+	height: 470px;
+	margin-top: 50px;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+	display: flex;
+}
+.profile-picture-container {
+	width: 470px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.image-square-container {
+	width: 370px;
+	height: 370px;
+	border: 5px solid #151d38;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.image-circle-container {
+	width: 305px;
+	height: 305px;
+	border: 5px solid #151d38;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+.image-circle-container img {
+	width: 100%;
+	height: 100%;
+}
+.profile-info-container {
+	width: 930px;
+}
+/* Profile card section ends */
