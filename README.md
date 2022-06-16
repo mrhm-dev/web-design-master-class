@@ -202,6 +202,10 @@ In this repository, you will find source codes, explanations, and other resource
     - 31.5 [Bootstrap 5 Form Component](https://www.youtube.com/watch?v=wGB75nFrRg8&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=136)
 32. Bootstrap 5 Utilities - [Overview of Bootstrap Utilities](https://www.youtube.com/watch?v=4CDf7hnpzjU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=137)
 33. Project - 9 Bootstrap 5 Blog Design
+    - 33.1 [Blog Design With Bootstrap 5 - Project Overview](https://www.youtube.com/watch?v=m17YGiQWvrA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=138)
+    - 33.2 [Blog Design With Bootstrap 5 - Project Scaffolding](https://www.youtube.com/watch?v=PgzNKzIvDZA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=139)
+    - 33.3 [Blog Design With Bootstrap 5 - Creating Navbar](https://www.youtube.com/watch?v=VnqJEtToKvQ&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=140)
+    - 33.4 [Blog Design With Bootstrap 5 - Creating Footer](https://www.youtube.com/watch?v=V1bBOwJi95Y&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=141)
 34. CSS Programming using SCSS
 35. Project 10 - Corporate Website
 36. Project 11 - ECommerce Website
