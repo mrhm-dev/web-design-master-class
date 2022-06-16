@@ -12,8 +12,6 @@ In this repository, you will find source codes, explanations, and other resource
 ### Our Contributors
 
 <a href="https://github.com/mrhm-dev/
-web-design-master-class
-/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=mrhm-dev/
-web-design-master-class" />
+web-design-master-class/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=mrhm-dev/web-design-master-class" />
 </a>

@@ -93,4 +93,120 @@ nav {
 .profile-info-container {
 	width: 930px;
 }
+.profile-info {
+	margin-top: 55px;
+	margin-left: 50px;
+}
+.profile-name {
+	font-weight: bold;
+	font-size: 36px;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: #333333;
+}
+.profile-title {
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 30px;
+	letter-spacing: 0.04em;
+	text-transform: capitalize;
+	color: #555555;
+	margin-top: 7px;
+}
+.social-links {
+	margin-top: 45px;
+	display: flex;
+	align-items: center;
+}
+.social-links img {
+	width: 32px;
+	margin-right: 14px;
+}
+.skill-chips {
+	display: flex;
+	margin-top: 20px;
+}
+.skill-chip {
+	background: #151d38;
+	color: #ffffff;
+	padding: 8px 7px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+	font-size: 14px;
+	font-weight: 600;
+	margin-right: 14px;
+}
+.profile-bio {
+	font-size: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 22px;
+	letter-spacing: 0.04em;
+	color: #555555;
+	margin-top: 42px;
+	margin-right: 147px;
+}
 /* Profile card section ends */
+
+/* My Skills section start */
+.my-skills-section {
+	width: 100%;
+	height: 490px;
+	margin-top: 50px;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+	padding: 35px 40px;
+}
+.my-skills-heading {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: #333333;
+	margin-bottom: 15px;
+}
+.skills-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.skill-item-container {
+	display: flex;
+	margin-top: 20px;
+}
+.icon-container {
+	border-radius: 3px;
+	overflow: hidden;
+}
+.icon-container img {
+	width: 100px;
+}
+.text-container {
+	margin-left: 40px;
+}
+.text-container h1 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	letter-spacing: 0.04em;
+	color: #333333;
+}
+.text-container h3 {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	letter-spacing: 0.04em;
+	color: #555555;
+	margin-top: 6px;
+}
+.text-container p {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	letter-spacing: 0.04em;
+	color: #555555;
+	margin-top: 12px;
+}
+/* My Skills section Ends */
