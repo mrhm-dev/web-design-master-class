@@ -155,3 +155,33 @@ hr.home {
 .all-post {
 	margin-top: 50px;
 }
+/* Individual Blog page */
+.blog-details h1 {
+	font-size: 36px;
+	margin: 16px 0;
+}
+.blog-details h2 {
+	font-size: 28px;
+	margin: 14px 0;
+}
+.blog-details h3 {
+	font-size: 24px;
+	margin: 12px 0;
+}
+.blog-details p {
+	font-size: 16px;
+	line-height: 1.5rem;
+	margin: 12px 0;
+}
+.blog-details img {
+	width: 100%;
+	height: auto;
+}
+.blog-details .title {
+	font-size: 42px;
+	margin: 30px 0;
+}
+.blog-details a {
+	color: #0066f9;
+	text-decoration: none;
+}
