@@ -11,7 +11,25 @@ body {
 	width: 55%;
 	margin: 0 auto;
 }
-
+h1 {
+	font-size: 36px;
+	color: #000;
+	font-weight: bold;
+}
+h3 {
+	font-size: 24px;
+	color: #000;
+	font-weight: 500;
+}
+p {
+	color: #000;
+	font-size: 16px;
+	line-height: 1.4rem;
+	margin-top: 20px;
+}
+a {
+	color: #000;
+}
 /* Navbar */
 nav {
 	background-color: #eaeaea;
@@ -19,7 +37,7 @@ nav {
 .nav-container {
 	display: flex;
 	align-items: center;
-	padding: 30px;
+	padding: 30px 0;
 }
 .brand-logo {
 	width: 170px;
@@ -56,4 +74,24 @@ nav {
 }
 .btn a {
 	color: #fff;
+}
+
+/* Footer */
+hr.footer {
+	border-top: 1px solid #eaeaea;
+	margin-bottom: 0;
+}
+footer {
+	padding: 20px 0;
+}
+.icons span {
+	margin-right: 15px;
+}
+.icons i {
+	font-size: 50px;
+	color: #0066f9;
+}
+/* Main  */
+main {
+	padding: 50px 0;
 }
