@@ -48,15 +48,15 @@
 <summary>3. Play with HTML & CSS</summary>
 
 - 3.1 [Introduction of play with HTML and CSS chapter](https://www.youtube.com/watch?v=3B57A0EYDUQ)
-  - 3.2 [What is html](https://www.youtube.com/watch?v=ykMSs4AsGLo)
-  - 3.3 [How to write html code](https://www.youtube.com/watch?v=RCiOk_OyNH0)
-  - 3.4 [HTML attribute](https://www.youtube.com/watch?v=t5FNH0U-jMw)
-  - 3.5 [What is CSS](https://www.youtube.com/watch?v=9LU3XL6tYzI)
-  - 3.6 [How to style HTML using CSS](https://www.youtube.com/watch?v=in9JKql82iE)
-  - 3.7 [How to link external CSS file](https://www.youtube.com/watch?v=qP6tAsDqwzM)
-  - 3.8 [Common CSS selectors](https://www.youtube.com/watch?v=nVZhBk3YYFU)
-  - 3.9 [How to link Google Font](https://www.youtube.com/watch?v=Rb_GY4Z9VtI)
-  - 3.10 [Create a section using div tag](https://www.youtube.com/watch?v=2Qnpv3eAyPI)
+- 3.2 [What is html](https://www.youtube.com/watch?v=ykMSs4AsGLo)
+- 3.3 [How to write html code](https://www.youtube.com/watch?v=RCiOk_OyNH0)
+- 3.4 [HTML attribute](https://www.youtube.com/watch?v=t5FNH0U-jMw)
+- 3.5 [What is CSS](https://www.youtube.com/watch?v=9LU3XL6tYzI)
+- 3.6 [How to style HTML using CSS](https://www.youtube.com/watch?v=in9JKql82iE)
+- 3.7 [How to link external CSS file](https://www.youtube.com/watch?v=qP6tAsDqwzM)
+- 3.8 [Common CSS selectors](https://www.youtube.com/watch?v=nVZhBk3YYFU)
+- 3.9 [How to link Google Font](https://www.youtube.com/watch?v=Rb_GY4Z9VtI)
+- 3.10 [Create a section using div tag](https://www.youtube.com/watch?v=2Qnpv3eAyPI)
   </details>
 
 <details>
