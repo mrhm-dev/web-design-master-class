@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Personal Blog</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+			integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+			crossorigin="anonymous"
+		/>
+
+		<link rel="stylesheet" href="./styles/reset.css" />
+		<link rel="stylesheet" href="./styles/style.css" />
+	</head>
+	<body>
+		<!-- Top NavBar -->
+		<nav>
+			<div class="container nav-container">
+				<div class="brand-logo">
+					<a href="index.html">
+						<img src="./images/logo.svg" alt="brand logo" />
+					</a>
+				</div>
+				<div class="nav-items">
+					<ul>
+						<li>
+							<a href="index.html">Home</a>
+						</li>
+						<li>
+							<a href="about.html">About</a>
+						</li>
+						<li>
+							<a href="blog.html">Blog</a>
+						</li>
+						<li class="active">
+							<a href="contact.html">Contact</a>
+						</li>
+						<li class="btn">
+							<a href="#">Button</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<!-- Main Content area  -->
+		<main class="container">
+			<h1>Contact Page</h1>
+			<p>
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat,
+				nesciunt suscipit ipsa architecto nemo sapiente voluptatem a facilis
+				beatae repellendus corporis, velit labore deserunt officia! Ad minus
+				possimus aspernatur nemo.
+			</p>
+			<div class="form-container">
+				<form>
+					<div class="form-group">
+						<label for="name">Enter Your Name</label>
+						<input
+							class="form-input-field"
+							type="text"
+							placeholder="John Doe"
+							id="name"
+						/>
+					</div>
+					<div class="form-group">
+						<label for="email">Enter Your Email</label>
+						<input
+							class="form-input-field"
+							type="email"
+							placeholder="john@example.com"
+							id="email"
+						/>
+					</div>
+					<div class="form-group">
+						<label for="subject">What is Your Subject</label>
+						<input
+							class="form-input-field"
+							type="text"
+							placeholder="Schedule a meeting"
+							id="subject"
+						/>
+					</div>
+					<div class="form-group">
+						<label for="message">Write Down Your Message</label>
+						<textarea
+							class="form-textarea"
+							id="message"
+							cols="30"
+							rows="10"
+						></textarea>
+					</div>
+					<div class="form-group">
+						<input class="form-submit-button" type="submit" value="Submit" />
+					</div>
+				</form>
+			</div>
+		</main>
+		<!-- Main footer -->
+		<hr class="footer" />
+		<footer class="container">
+			<div class="icons">
+				<a target="_blank" href="https://github.com/mrhm-dev">
+					<span>
+						<i class="fa fa-github" aria-hidden="true"></i>
+					</span>
+				</a>
+				<a target="_blank" href="https://twitter.com/stacklearner">
+					<span>
+						<i class="fa fa-twitter" aria-hidden="true"></i>
+					</span>
+				</a>
+			</div>
+			<p>
+				Iceberg Gatsby is a PWA, save it for offline reading.
+				<a href="#">See more PWA here.</a>
+			</p>
+			<p>
+				Maintained by <a href="#">@_diogorodrigues.</a> You can always
+				contribute with the project on <a href="#">Github</a>.
+			</p>
+		</footer>
+	</body>
+</html>
