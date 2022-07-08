@@ -1,6 +1,44 @@
-.card-img-top {
-	width: 100%;
-	height: 250px;
-	object-fit: cover;
-	object-position: center;
+.card-img-top,
+.featured-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Single Article Design */
+.article h1 {
+  font-size: 32px;
+  margin-bottom: 1rem;
+}
+.article h2 {
+  font-size: 28px;
+  margin-bottom: 1rem;
+}
+.article h3 {
+  font-size: 22px;
+  margin-bottom: 1rem;
+}
+.article h4 {
+  font-size: 18px;
+  margin-bottom: 1rem;
+}
+
+.article p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  margin-bottom: 1rem;
+}
+.article img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 1rem;
+}
+
+.article a {
+  text-decoration: none;
+  color: #333;
 }
