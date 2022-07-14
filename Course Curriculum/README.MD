@@ -293,7 +293,7 @@
 
 <summary>27. Project 8 - Multi Page Blog</summary>
 
-- 27.1 [Multi Page Blog Navigation Bar ](https://www.youtube.com/watch?v=X16VOmXrPLM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=114)
+- 27.1 [Multi Page Blog Navigation Bar ](https://www.youtube.com/watch?v=Ux6g-zKTaEs&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=114)
 - 27.2 [Multi Page Blog Project Footer & Layout](https://www.youtube.com/watch?v=bC82m_6PXXU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=115)
 - 27.3 [Multi Page Blog- Home Page & Blog Page](https://www.youtube.com/watch?v=HcTcOl55jlI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=116)
 - 27.4 [Multi-Page Blog Project Details page](https://www.youtube.com/watch?v=VFN56uHQkNU&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=117)
@@ -357,6 +357,15 @@
 - 33.2 [Blog Design With Bootstrap 5 - Project Scaffolding](https://www.youtube.com/watch?v=PgzNKzIvDZA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=139)
 - 33.3 [Blog Design With Bootstrap 5 - Creating Navbar](https://www.youtube.com/watch?v=VnqJEtToKvQ&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=140)
 - 33.4 [Blog Design With Bootstrap 5 - Creating Footer](https://www.youtube.com/watch?v=V1bBOwJi95Y&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=141)
+- 33.5 [Blog Design With Bootstrap 5 - Create Featured Post Section](https://www.youtube.com/watch?v=Z1BECLisqSM&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=142)
+- 33.6 [Blog Design With Bootstrap 5 - Main Content Layout](https://www.youtube.com/watch?v=uElT5qe5_XE&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=143)
+- 33.7 [Blog Design With Bootstrap 5 - Recent Article Section](https://www.youtube.com/watch?v=eeU_fkrHxRQ&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=144)
+- 33.8 [Blog Design With Bootstrap 5 - Homepage Sidebar](https://www.youtube.com/watch?v=rilmNIyXg9M&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=145)
+- 33.9 [Blog Design With Bootstrap 5 - Article Page Design](https://www.youtube.com/watch?v=7TIRc6dR87A&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=146)
+- 33.10 [Blog Design With Bootstrap 5 - Search Page Design](https://www.youtube.com/watch?v=V00G4lxztp0&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=147)
+- 33.11 [Blog Design With Bootstrap 5 - About Page Design](https://www.youtube.com/watch?v=McMrgfTWXWs&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=148)
+- 33.12 [Blog Design With Bootstrap 5 - Contact Page Design](youtube.com/watch?v=cqTYwkhoV3k&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=149)
+
 </details>
 
 34. CSS Programming using SCSS
