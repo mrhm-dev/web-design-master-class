@@ -370,6 +370,7 @@
 
 <details>
 <summary>34. CSS Programming using SCSS </summary>
+
 - 34 [CSS Programming Using Sass](https://www.youtube.com/watch?v=N3HPS_kFBVI&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=150)
 </details>
 
