@@ -1,1 +1,5 @@
+# Node modules
 node_modules/
+
+# Generated Css files
+css/

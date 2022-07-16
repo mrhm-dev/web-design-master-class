@@ -2,5 +2,9 @@
 
 // Import Bootstrap sass files
 @import "../node_modules/bootstrap/scss/bootstrap";
+@import "./nav/navbar.scss";
 
 // custom codes
+.extra-margin {
+  margin-top: 80px;
+}
