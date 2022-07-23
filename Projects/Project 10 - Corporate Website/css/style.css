@@ -9736,5 +9736,55 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.navbar {
+  height: 80px;
+}
+.navbar .download {
+  padding: 0.5rem;
+  background-image: linear-gradient(90deg, #8b62ff 0, #3b1bff);
+  border: none;
+  outline: none;
+}
+
+footer a {
+  text-decoration: none;
+  color: #333;
+}
+footer .social-icon {
+  display: inline-flex;
+  background-color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  margin-right: 0.25rem;
+  color: #333;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+}
+footer .social-icon:hover {
+  color: rgb(97, 97, 207);
+}
+footer .subscribe-group {
+  margin-top: 1rem;
+}
+footer .subscribe-group .form-control {
+  border: 1px solid #fff;
+  padding: 0.5rem;
+}
+footer .subscribe-group .form-control:hover, footer .subscribe-group .form-control:focus {
+  outline: 0px !important;
+  -webkit-appearance: none;
+  box-shadow: none !important;
+}
+footer .subscribe-group button {
+  background-image: linear-gradient(90deg, #8b62ff, 0, #3b1bff);
+  color: #fff;
+}
+
+.extra-margin {
+  margin-top: 80px;
+}
 
 /*# sourceMappingURL=style.css.map */
