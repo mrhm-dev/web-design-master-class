@@ -9783,6 +9783,23 @@ footer .subscribe-group button {
   color: #fff;
 }
 
+.hero-section {
+  background-image: url("../../assets/images/hero-section-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  padding: 12% 0;
+  opacity: 0.95;
+}
+.hero-section h1, .hero-section .h1,
+.hero-section p {
+  color: #fff;
+  text-shadow: 1px 3px solid #000;
+}
+.hero-section button {
+  background-image: linear-gradient(90deg, #8b62ff, #3b1bff);
+}
+
 .extra-margin {
   margin-top: 80px;
 }
