@@ -9800,6 +9800,13 @@ footer .subscribe-group button {
   background-image: linear-gradient(90deg, #8b62ff, #3b1bff);
 }
 
+.feature-section {
+  padding: 60px;
+}
+.feature-section .icon-container {
+  font-size: 3rem;
+}
+
 .extra-margin {
   margin-top: 80px;
 }
