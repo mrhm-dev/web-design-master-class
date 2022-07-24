@@ -1,0 +1,17 @@
+{
+  "name": "34-css-programming-using-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./scss/main.scss ./css/style.css",
+    "sass:watch": "sass --watch ./scss/main.scss ./css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}

@@ -8,8 +8,9 @@ In this repository, you will find source codes, explanations, and other resource
 
 - [Youtube Playlist Link](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN)
 - [Course Curriculum](/Course%20Curriculum/README.MD)
-- [Source Codes](https://github.com/mrhm-dev/web-design-master-class/tree/master/src)
-- [Community Driven Examples](https://github.com/mrhm-dev/web-design-master-class/tree/master/src)
+- [Projects](/Projects/README.MD)
+- [Source Codes](/src/)
+- [Community Driven Examples](/examples/)
 
 ### Our Contributors
 

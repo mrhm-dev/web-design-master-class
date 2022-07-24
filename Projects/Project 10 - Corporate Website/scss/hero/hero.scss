@@ -1,0 +1,16 @@
+.hero-section {
+  background-image: url("../../assets/images/hero-section-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  padding: 12% 0;
+  opacity: 0.95;
+  h1,
+  p {
+    color: #fff;
+    text-shadow: 1px 3px solid #000;
+  }
+  button {
+    background-image: linear-gradient(90deg, #8b62ff, #3b1bff);
+  }
+}

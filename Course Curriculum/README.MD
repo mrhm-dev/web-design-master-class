@@ -351,7 +351,7 @@
 
 <details>
 
-<summary>33. Project - 9 Bootstrap 5 Blog Design</summary>
+<summary>33. Project 9 - Bootstrap 5 Blog Design</summary>
 
 - 33.1 [Blog Design With Bootstrap 5 - Project Overview](https://www.youtube.com/watch?v=m17YGiQWvrA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=138)
 - 33.2 [Blog Design With Bootstrap 5 - Project Scaffolding](https://www.youtube.com/watch?v=PgzNKzIvDZA&list=PL_XxuZqN0xVBPhR5bjBIKyBjTo8pK99gN&index=139)
