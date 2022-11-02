@@ -151,7 +151,7 @@ nav {
   margin-top: 1rem;
 }
 .category-item {
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0;
 }
 .category-item a {
   color: #333;
